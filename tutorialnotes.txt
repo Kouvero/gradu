@@ -135,7 +135,10 @@ The game jumps right into a combat tutorial after the first cutscenes. Your told
 
 Child of Light
 
+Child of Light is a 2D platformer where you control an additional flying companion character on the screen with the right stick of the controller. The game has a checkbox in the options menu to turn off tutorials, but there's not really a separate tutorial. Basic controller experience is assumed, and during the first 90 minutes of gameplay, there are only a few new things presented. These include things like a pop-up that says how to move the companion character with the right stick, and how to press A to fly. There a certain level of complexity in the controls because the player has to guide to characters on the screen simultaneously. In addition to the movement
 
 --
 
 Generally there are not usually separate tutorials, but rather the information is embedded in the beginning of the actual game. Perhaps this is to make sure that anyone playing the game gets the information they need, rather than having to find it from a tutorial separate from the main game, but it also depends on the game type. In a fighting game like Guilty Gear Xrd, the separate tutorial can be justified because there is actually only one game mode, which is two characters fighting. Adding a tutorial to a regular match would be difficult because it would have to be constantly paused and wouldn't feel like the actual gameplay anyway.
+
+Tutorial can be interpreted as the transferring of knowledge. It doesn't necessarily then mean that there would have to be a separate tutorial section in the game, but rather the tutorial can be happening occasionally into many hours in the game, as new mechanics or strategies are introduced.
