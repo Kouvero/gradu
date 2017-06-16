@@ -1,0 +1,25 @@
+Central references:
+
+2017-3-13
+Free writing about usability and general stuff. Formulating thesis structure.
+Reading thesis book and about reading other theses.
+
+2017-3-14
+Argument: what is the usability of video game tutorials. Are they usable?
+How usable are they? Thesis in a month method / slowflake method. "The
+usability of video game tutorials is not as good as it can be" OR "the usability
+of video game tutorials correlates with review scores" etc.'
+EXPERT REVIEW vs. usability testing. What usability testing means here: evaluating
+usability with a group of test users.
+Writing with an argument first?
+
+2017-3-14
+Defining usability
+
+2017-3-31
+How to pick games and method? What could the conlusions be like? Format of conclusions?
+How to justify genres?
+Mechanics vs. usability (HEP article)
+
+2017-5-8
+Although in traditional usability contexts it can generally be important to know as a user what you are supposed to do next, which in turn means that you know what you want to be doing. A piece of software is seen as a tool here, that was built to complete a certain predefined task, help organize information etc. Video games, however, don't necessarily always follow this pattern. There are many open-ended games that don't give a you a set of predefined tasks you need to complete in order to proceed (Chris Crawford etc.). Comparing straightforward action games where the only way is forward and you keep building on the things you complete while playing, games with a more free form don't know what you want to do next. You can take many paths (e.g. in the so-called 4X games (eXplore, eXpand, eXploit, and eXterminate), i.e. you can't always be offered everything at once, rather the game adapts to your choices and presents information based on what you choose to do at a given time. Stellaris has a contextual tutorial.

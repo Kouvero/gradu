@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: 1introduction.aux
+A level-1 auxiliary file: 2definitions.aux
+A level-1 auxiliary file: 3methods.aux
+A level-1 auxiliary file: 4analysis.aux
+A level-1 auxiliary file: 5conclusion.aux
+The style file: apalike.bst
+Database file #1: library.bib
+Warning--can't use both volume and number fields in Norman2013a
+You've used 5 entries,
+            1935 wiz_defined-function locations,
+            512 strings with 4573 characters,
+and the built_in function-call counts, 1763 in all, are:
+= -- 172
+> -- 61
+< -- 6
++ -- 20
+- -- 20
+* -- 133
+:= -- 315
+add.period$ -- 14
+call.type$ -- 5
+change.case$ -- 34
+chr.to.int$ -- 5
+cite$ -- 6
+duplicate$ -- 74
+empty$ -- 121
+format.name$ -- 25
+if$ -- 342
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 5
+newline$ -- 27
+num.names$ -- 15
+pop$ -- 29
+preamble$ -- 1
+purify$ -- 35
+quote$ -- 0
+skip$ -- 65
+stack$ -- 0
+substring$ -- 108
+swap$ -- 15
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 1
+while$ -- 15
+width$ -- 0
+write$ -- 63
+(There was 1 warning)

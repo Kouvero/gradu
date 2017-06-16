@@ -1,0 +1,141 @@
+Dark Souls 2:
+There's no separate tutorial section. The player can read stone tablets he comes across, which show the controls separately, one by one.
+First which button to press to attack.
+Then target lock.
+Then you get to kill two enemies.
+Then how to dash.
+Then you kill an enemy.
+Then how if you attack from behind enemy's back it's a critical hit.
+Then how to roll.
+Then kill two enemies again.
+Then how to switch weapons.
+Then how to backstep.
+Then kill an enemy.
+Then how to use an item.
+Then how you move the camera (RS).
+Then you can enter another area that gives more stone tablets on the floor.
+How to wield your weapons with both hands.
+Then kill to enemies.
+Then how to perform a dashing jump, and you actually can jump over a chasm and pick an item.
+Then you can climb up a ladder (if you notice it) and it tells you how to parry, perform a plunging attack (dropping on an enemy) and then how to guard break.
+
+Ori and the Blind Forest:
+No separate tutorial.
+As the player moves, informs to hold A longer to jump higher.
+Then to hold down and press A to 'jump down through platforms'.
+Let's the player know how collectibles work as they are found.
+Then how to hold B to save your game (saving is an in-game mechanic, not separated menu functionality).
+Ori keeps introducing new mechanics many hours into the game, and tells you what the controls are in-game, as you unlock new abilities.
+There are areas that are not cleary yet accessible until you unlock new abilities (i.e. a double jump) to go there. The game will always prompt you to use the controls accordingly to get there the first time. It's never paused and always integrated to the gameplay.
+Ori is a certain type of game where the versatile gameplay is not revealed all at once, but through acquired abilities, escalating the possibilities towards the end of the game.
+
+Heroes of the Storm:
+Has two separate tutorials you can choose to play: one concerning character development (called "tutorial")and basic gameplay, other (called "battleground training") concerning the differences of arenas, that have their own special mechanics.
+Before the tutorial you have to choose which role to play: assassin, warrior or support.
+At the start of the tutorials, you are given a basic overview of the lanes each map has and your objective: to destroy the main structure at the enemy base. You are also told that at least one hero should be present on each line during play.
+Then you get the overview of the character you chose, i.e. what kind of abilities she has.
+Then you get a "Tip Panel" on the top left of your screen which has the basic controls, and are told to familiarize yourself with them.
+Then you get a short cinematic about how you gain experience (xp) when killing enemy minions and are shown what some basic info on the screen means.
+Then you get information on how your abilities work and are thrown into battle to try them out.
+As you kill enemies and proceed on the map, you encounter the first turrets, and are told what their mechanics are, which feels very useful (too).
+Then you're told about the secondary objective(s) each battleground has.
+You're told to get to the secondary objective, and also how to ride a mount to get there faster.
+You're told how the secondary objective here, a watch tower, increases your teams visibility around it.
+Then your told to defeat a camp of giants to make them fight on your side for a while down the nearest lane.
+You're told to go and destroy the enemy base, after which the tutorial ends.
+
+In battleground training, you are able choose from the same three hero types (assassin, warrior and support).
+When the training starts, you get more information about keyboard shortcuts, such as how pressing tab shows you the score and status card.
+There's also a question mark present on the screen at all times from which you can review all the tutorial tips.
+Then you get told how to regain mana from fountains or how to teleport back to base to refill your stats.
+The tips often pause the game and wait until you've read them.
+With the tribute battleground mechanic, you're told very specifically what to do and how it affects the other team if you succeed. This is further enhanced by using specific markers to show locations on the minimap relevant to the tutorial.
+When you active the tribute and weaken the enemy team, you are told to attack the enemy and the tutorial ends when their main building is destroyed.
+
+Psychonauts:
+When you start a new game, it eventually throws you into a sequence where you are asked to perform controls, starting with a command to move the right stick towards the right. You are then told about the object you're looking, a collectible and what it does in the game. After that, you are asked to look up, get told about another collectible there and the sequence ends. After this the game starts.
+When you first open the menu, you get a prompt how to move in the menu.
+When you go to a tab in the menu for the first time, you get a prompt that tells you what the menu is about, and then click a button the close the prompt.
+When you pick up things from the ground for the first time, you get a prompt that tells you what they are and then have to click a button to close the prompt.
+You can run around in the first area collecting stuff, but the next area is blocked until you complete an 'obstacle course' that teaches you the rest of the controls.
+First you need to jump over things, then double jump over bigger distances.
+The basic training obstacle course is not an easy one and really tests the players abilities with jumping, climbing, punching and collecting things. During this constant information is given how to perform these actions and what new collectibles mean.
+After the basic training course is completed, the player has been shown everything about the basic controls and gameplay mechanics.
+
+Quake Live:
+Quake Live has a training center where you can optionally get information on how the game is played. There are both videos that show you what you should be doing, and training where you get to try out the different controls yourself. There are three different training sections, called crash course, accelerate and elevate. The crash course shows you the basic controls on how to move and shoot, and is very thorough. You are told how long the tutorial will take and that you can exit at any time by pressing F3. Then you enter an arena with a non-player character (NPC) who gives you detailed information about ammo pickups, weapons, health the map in question and the general playstyle that is considered good (spawn, gear up, fight, restock). Then, a training match with the NPC commences and you fight her in order to complete the first part of the tutorial. The second and third part of the tutorial section teach you how to strafe jump and rocket jump, respectively. The training center apprently wants to make sure you are aware of these mechanics, that are not evident in a general first person shooter (FPS), but doesn't force you to complete the training sections before you can start to play against other people.
+
+Rocket League:
+Rocket League has a training option in the main menu, from which you can access the game's tutorial, which includes to sections: basic and advanced.
+The basic tutorials tells you the basic controls one after the other and requires you to complete different things before it proceeds to the next one. These include tasks like pushing the ball to the goal, jumping at the ball and scoring, making a powerslife turn etc. The tutorial map is a smaller version of the regular game map. All the possible controls are not accessible during the tutorial, only the required ones at any given time.
+The same principles apply to the advanced tutorial. You are given more advanced mechanics, but need to proceed with them in a similar way with limited controls to make sure you do things in the required way.
+
+Guilty Gear Xrd Revelator
+https://www.youtube.com/watch?v=0oWBwcYr1LM
+Guilty Gear Xrd Revelator is a 2D fighting game that has an extensive tutorial
+teaching you many facets of the game. Starting with the movement controls, it
+shows you how to move, jump and dash. This is done by making the player pop
+balloons with his movements, and obstacles are presented that have to be
+jumped over and dashed through quickly enough. All of this makes sure that the correct controls are used in
+order to proceed in the tutorial.
+After movement training, the tutorial moves on to how to attack in different
+ways. The available buttons for attacking are presented on the screen the
+whole time, and different targets are given for the player to hit with
+specific attacks, with a section dedicated to each attack type (i.e. "attack
+all of these targets with the specified attack type"). A timer is also
+introduced later. The specified attacks have to be made quickly enough in
+order to proceed with the tutorial. The target to hit is also specified with a
+symbol and letter specifying the attack to be used, which makes the object
+easy to understand at all times. The tutorial also teaches different types of
+basic combo attacks (a sequence of single basic attacks), and gives you targets to be beaten with given combos.
+This gives the game a very tactile feel from the start, giving practical
+applications to the controls instead of just giving you the controls and not
+showing how they can be applied. This can feel like the tu:qtorial is a little
+minigame in itself, apart from the actual intended gameplay.
+The third mechanic the tutorials introduces is blocking, i.e. how to block
+your opponents attacks. It also tells for to what type of attacks each block
+type is effective (for standing, crouching and aerial blocks). NPC's attack
+the player, and can only be harmed with a proper counter attack after a
+succesful block. A mechanic specific to the Guilty Gear series, a Roman
+Cancel, is also taught in a similar fashion.
+After all this there's a recap of what has been learned (movement, attacks,
+blocking and roman cancels), and you need to apply all of the techniques to
+beat a number of NPCs combined with an obstacle course forcing the player to
+jump and dash in order to complete the section. Finally, there is one last
+fight against a more powerful character, and you get tips for how to proceed
+with the fight. This means e.g. using a specific type of mid range combo to
+build up the meter for using roman cancels for additional combo power.
+There's also a separate menu in the game from which you can access match-up
+tutorials. These show you how to best deal with specific characters and their
+unique abilities.
+
+"Was that a lot to remember?
+Good, because a lot of servants are about to attack you.
+Defeat them all."
+
+Quake Champions (beta)
+
+When you first start the game, the first thing you see is an annoucement about
+where training videos are found in the menu. At the moment of writing this
+they are called beta tutorials, and the tutorials are video only, so the
+player needs to try to make use of the information in a separate setting. The
+first information given in the introduction video is not about controls, but
+rather about the spawning mechanic, weapons and types of power-ups. The first
+video of the three is a general introduction with all these concepts. The
+second video is about health and armor, and the third one about power-ups.
+All collectibles and their functionality is presented. It is assumed that the
+player has the required knowledge about the elementary controls. Information about game dynamics is also given, such as how it's important to start gathering power-ups and weapons when the match starts. Emphazising what to do, rather than how to do something, can be a good idea: "spawn, gear up, fight, restock".
+
+Dead Cells
+
+Dead cells is a 2D platformer that throws the player straight into the game, and gives context-sensitive tips about how to move the character. Basic (Xbox) gamepad knowledge is assumed on controlling the character with the left analog stick, but a text appears over the character to press 'A' on the controller to jump. Then X for main weapon, to break through a door. Then how to double jump with consecutive A-button presses. Progress is not possible if the instructions are not followed. Then the player gets a secondary weapon and the instructions to press 'Y' to use it to break through another door. The text doesn't disappear until the button is pressed. Then you get the promp to press 'B' to roll.
+
+Banner Saga
+The game jumps right into a combat tutorial after the first cutscenes. Your told to drag around the screen to see your surroundings, but it's not immediately evident how to track, i.e. by taking the mouse to the edge of the screen or by clicking and dragging. There's time to find out because the tutorial won't proceed until you click a button to continue. Next the initiative chart is explained, which shows the order in which the different characters will act. This also effectively means that The Banner Saga is a turn-based game. You're again asked to click to continue. All the important mechanics are explained and shown one after the other. Different actions and abilities are color-coded the further enhance their meaning. At the start of the next battle, you get the possibility to choose where to place your characters before the battle starts, but this is not mentioned right away, but in a later battle. There's question mark in the corner which you can click to get tips around the screen about what each item on the screen means. As new game modes or screens are introduced, there is a text pop-up telling what the screen is and how to generally manage it. After the start of the game there is also a training mode accessible, where you can have training battles with your characers.
+
+Child of Light
+
+
+--
+
+Generally there are not usually separate tutorials, but rather the information is embedded in the beginning of the actual game. Perhaps this is to make sure that anyone playing the game gets the information they need, rather than having to find it from a tutorial separate from the main game, but it also depends on the game type. In a fighting game like Guilty Gear Xrd, the separate tutorial can be justified because there is actually only one game mode, which is two characters fighting. Adding a tutorial to a regular match would be difficult because it would have to be constantly paused and wouldn't feel like the actual gameplay anyway.
