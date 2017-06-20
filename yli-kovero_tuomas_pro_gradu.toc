@@ -8,5 +8,18 @@
 \contentsline {chapter}{\numberline {3}Methods for expert review}{15}
 \contentsline {section}{\numberline {3.1}Building heuristics}{15}
 \contentsline {section}{\numberline {3.2}Basis for selecting applicable video games}{18}
-\contentsline {chapter}{\numberline {4}Analyzing expert review results}{19}
-\contentsline {chapter}{\numberline {5}Conclusion}{20}
+\contentsline {chapter}{\numberline {4}Chosen games and their tutorials}{19}
+\contentsline {section}{\numberline {4.1}Dark Souls 2}{20}
+\contentsline {section}{\numberline {4.2}Ori and the Blind Forest}{20}
+\contentsline {section}{\numberline {4.3}Heroes of the Storm}{21}
+\contentsline {section}{\numberline {4.4}Psychonauts}{22}
+\contentsline {section}{\numberline {4.5}Quake Live}{23}
+\contentsline {section}{\numberline {4.6}Rocket League}{23}
+\contentsline {section}{\numberline {4.7}Guild Gear Xrd Revelator}{24}
+\contentsline {section}{\numberline {4.8}Quake Champions (beta)}{25}
+\contentsline {section}{\numberline {4.9}Dead Cells}{26}
+\contentsline {section}{\numberline {4.10}The Banner Saga}{26}
+\contentsline {section}{\numberline {4.11}Child of Light}{27}
+\contentsline {section}{\numberline {4.12}SWAT 4}{27}
+\contentsline {chapter}{\numberline {5}Analyzing expert review results}{28}
+\contentsline {chapter}{\numberline {6}Conclusion}{29}
