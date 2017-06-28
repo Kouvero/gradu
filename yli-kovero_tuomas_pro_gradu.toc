@@ -1,25 +1,55 @@
-\contentsline {chapter}{\numberline {1}Introduction}{2}
-\contentsline {chapter}{\numberline {2}Theoretical concepts}{4}
-\contentsline {section}{\numberline {2.1}Usability}{4}
-\contentsline {subsection}{\numberline {2.1.1}Usability in software}{7}
-\contentsline {subsection}{\numberline {2.1.2}Usability in video games}{9}
-\contentsline {section}{\numberline {2.2}Heuristics in usability}{11}
-\contentsline {section}{\numberline {2.3}The role of the tutorial in a video game}{14}
-\contentsline {chapter}{\numberline {3}Methods for expert review}{15}
-\contentsline {section}{\numberline {3.1}Building heuristics}{15}
-\contentsline {section}{\numberline {3.2}Basis for selecting applicable video games}{18}
-\contentsline {chapter}{\numberline {4}Chosen games and their tutorials}{19}
-\contentsline {section}{\numberline {4.1}Dark Souls 2}{20}
-\contentsline {section}{\numberline {4.2}Ori and the Blind Forest}{20}
-\contentsline {section}{\numberline {4.3}Heroes of the Storm}{21}
-\contentsline {section}{\numberline {4.4}Psychonauts}{22}
-\contentsline {section}{\numberline {4.5}Quake Live}{23}
-\contentsline {section}{\numberline {4.6}Rocket League}{23}
-\contentsline {section}{\numberline {4.7}Guild Gear Xrd Revelator}{24}
-\contentsline {section}{\numberline {4.8}Quake Champions (beta)}{25}
-\contentsline {section}{\numberline {4.9}Dead Cells}{26}
-\contentsline {section}{\numberline {4.10}The Banner Saga}{26}
-\contentsline {section}{\numberline {4.11}Child of Light}{27}
-\contentsline {section}{\numberline {4.12}SWAT 4}{27}
-\contentsline {chapter}{\numberline {5}Analyzing expert review results}{28}
-\contentsline {chapter}{\numberline {6}Conclusion}{29}
+\contentsline {chapter}{\numberline {1}Introduction}{3}
+\contentsline {chapter}{\numberline {2}Theoretical concepts}{5}
+\contentsline {section}{\numberline {2.1}Usability}{5}
+\contentsline {subsection}{\numberline {2.1.1}Usability in software}{8}
+\contentsline {subsection}{\numberline {2.1.2}Usability in video games}{10}
+\contentsline {section}{\numberline {2.2}Heuristics in usability}{12}
+\contentsline {section}{\numberline {2.3}The role of the tutorial in a video game}{15}
+\contentsline {chapter}{\numberline {3}Methods for expert review}{16}
+\contentsline {section}{\numberline {3.1}Building heuristics}{16}
+\contentsline {section}{\numberline {3.2}Basis for selecting applicable video games}{19}
+\contentsline {chapter}{\numberline {4}Chosen games and their tutorials}{20}
+\contentsline {section}{\numberline {4.1}Dark Souls 2}{21}
+\contentsline {paragraph}{Genre: Action / RPG }{21}
+\contentsline {section}{\numberline {4.2}Ori and the Blind Forest}{21}
+\contentsline {paragraph}{Genre: Platformer}{21}
+\contentsline {section}{\numberline {4.3}Heroes of the Storm}{22}
+\contentsline {paragraph}{Genre: MOBA}{22}
+\contentsline {section}{\numberline {4.4}Psychonauts}{23}
+\contentsline {paragraph}{Genre: 3D Platformer / Action-adventure}{23}
+\contentsline {section}{\numberline {4.5}Quake Live}{24}
+\contentsline {paragraph}{Genre: FPS}{24}
+\contentsline {section}{\numberline {4.6}Rocket League}{24}
+\contentsline {paragraph}{Genre: Sports / Soccer / Racing}{24}
+\contentsline {section}{\numberline {4.7}Guild Gear Xrd Revelator}{25}
+\contentsline {paragraph}{Genre: Fighting}{25}
+\contentsline {section}{\numberline {4.8}Quake Champions (beta)}{26}
+\contentsline {paragraph}{Genre: FPS}{26}
+\contentsline {section}{\numberline {4.9}Dead Cells}{27}
+\contentsline {paragraph}{Genre: 2D Platformer / Rogue-lite}{27}
+\contentsline {section}{\numberline {4.10}The Banner Saga}{27}
+\contentsline {paragraph}{Genre: Turn-based strategy / RPG}{27}
+\contentsline {section}{\numberline {4.11}Child of Light}{28}
+\contentsline {paragraph}{Genre: 2D Platformer / Turn-based combat}{28}
+\contentsline {section}{\numberline {4.12}SWAT 4}{28}
+\contentsline {paragraph}{Genre: Tactical shooter}{28}
+\contentsline {section}{\numberline {4.13}This War of Mine}{29}
+\contentsline {paragraph}{Genre: 2D / Point \& Click}{29}
+\contentsline {section}{\numberline {4.14}Hitman}{29}
+\contentsline {paragraph}{Genre: Action / Stealth}{29}
+\contentsline {section}{\numberline {4.15}Binary Domain}{30}
+\contentsline {paragraph}{Genre: Third-person shooter}{30}
+\contentsline {section}{\numberline {4.16}Minecraft: Pocket Edition}{30}
+\contentsline {paragraph}{Genre: Sandbox / Survial}{30}
+\contentsline {section}{\numberline {4.17}Monument Valley}{30}
+\contentsline {paragraph}{Genre: Puzzle}{30}
+\contentsline {section}{\numberline {4.18}New Star Soccer}{30}
+\contentsline {paragraph}{Genre: Sports}{30}
+\contentsline {section}{\numberline {4.19}Hitman: Sniper}{30}
+\contentsline {paragraph}{Genre: Shooting gallery}{30}
+\contentsline {section}{\numberline {4.20}Lara Croft Go}{31}
+\contentsline {paragraph}{Genre: Puzzle}{31}
+\contentsline {section}{\numberline {4.21}Hearthstone}{31}
+\contentsline {paragraph}{Genre: Collectible card game}{31}
+\contentsline {chapter}{\numberline {5}Analyzing expert review results}{32}
+\contentsline {chapter}{\numberline {6}Conclusion}{33}
