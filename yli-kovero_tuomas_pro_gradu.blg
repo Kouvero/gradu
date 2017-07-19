@@ -6,6 +6,10 @@ A level-1 auxiliary file: games.aux
 A level-1 auxiliary file: analysis.aux
 A level-1 auxiliary file: 5conclusion.aux
 The style file: apalike.bst
+A level-1 auxiliary file: appendix.aux
 Database file #1: library.bib
+Warning--empty publisher in Isbister2008
+Warning--can't use both volume and number fields in Nielsen1993
+Warning--empty publisher in Nielsen1993
 Warning--there's a number but no volume in Nielsen1990
-(There was 1 warning)
+(There were 4 warnings)

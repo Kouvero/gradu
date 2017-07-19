@@ -7,48 +7,51 @@
 \contentsline {section}{\numberline {2.3}The role of the tutorial in a video game}{15}
 \contentsline {chapter}{\numberline {3}Methods for expert review}{16}
 \contentsline {section}{\numberline {3.1}Building heuristics}{16}
-\contentsline {section}{\numberline {3.2}Defining tutorials}{19}
-\contentsline {section}{\numberline {3.3}Basis for selecting applicable video games}{19}
-\contentsline {chapter}{\numberline {4}Chosen games and their tutorials}{21}
-\contentsline {section}{\numberline {4.1}Dark Souls 2}{22}
-\contentsline {paragraph}{Genre: Action / RPG }{22}
-\contentsline {section}{\numberline {4.2}Ori and the Blind Forest}{22}
-\contentsline {paragraph}{Genre: Platformer}{22}
-\contentsline {section}{\numberline {4.3}Heroes of the Storm}{23}
-\contentsline {paragraph}{Genre: MOBA}{23}
-\contentsline {section}{\numberline {4.4}Psychonauts}{24}
-\contentsline {paragraph}{Genre: 3D Platformer / Action-adventure}{24}
-\contentsline {section}{\numberline {4.5}Quake Live}{25}
-\contentsline {paragraph}{Genre: FPS}{25}
-\contentsline {section}{\numberline {4.6}Rocket League}{25}
-\contentsline {paragraph}{Genre: Sports / Soccer / Racing}{25}
-\contentsline {section}{\numberline {4.7}Guild Gear Xrd Revelator}{26}
-\contentsline {paragraph}{Genre: Fighting}{26}
-\contentsline {section}{\numberline {4.8}Quake Champions (beta)}{27}
-\contentsline {paragraph}{Genre: FPS}{27}
-\contentsline {section}{\numberline {4.9}Dead Cells}{28}
-\contentsline {paragraph}{Genre: 2D Platformer / Rogue-lite}{28}
-\contentsline {section}{\numberline {4.10}The Banner Saga}{28}
-\contentsline {paragraph}{Genre: Turn-based strategy / RPG}{28}
-\contentsline {section}{\numberline {4.11}Child of Light}{29}
-\contentsline {paragraph}{Genre: 2D Platformer / Turn-based combat}{29}
-\contentsline {section}{\numberline {4.12}SWAT 4}{29}
-\contentsline {paragraph}{Genre: Tactical shooter}{29}
-\contentsline {section}{\numberline {4.13}This War of Mine}{30}
-\contentsline {paragraph}{Genre: 2D / Point \& Click}{30}
-\contentsline {section}{\numberline {4.14}Hitman}{30}
-\contentsline {paragraph}{Genre: Action / Stealth}{30}
-\contentsline {section}{\numberline {4.15}Binary Domain}{31}
-\contentsline {paragraph}{Genre: Third-person shooter}{31}
-\contentsline {section}{\numberline {4.16}Minecraft: Pocket Edition}{31}
-\contentsline {paragraph}{Genre: Sandbox / Survial}{31}
-\contentsline {section}{\numberline {4.17}Monument Valley}{31}
-\contentsline {paragraph}{Genre: Puzzle}{31}
-\contentsline {section}{\numberline {4.18}New Star Soccer}{32}
-\contentsline {paragraph}{Genre: Sports}{32}
-\contentsline {section}{\numberline {4.19}Insurgency}{32}
-\contentsline {paragraph}{Genre: Tactical shooter}{32}
-\contentsline {section}{\numberline {4.20}Hammerwatch}{32}
-\contentsline {paragraph}{Genre: Hack and slash / Dungeon crawler}{32}
-\contentsline {chapter}{\numberline {5}Analyzing expert review results}{33}
-\contentsline {chapter}{\numberline {6}Conclusion}{34}
+\contentsline {section}{\numberline {3.2}Defining tutorials}{22}
+\contentsline {section}{\numberline {3.3}Basis for selecting applicable video games}{23}
+\contentsline {chapter}{\numberline {4}Chosen games and their tutorials}{24}
+\contentsline {section}{\numberline {4.1}Initial impressions}{25}
+\contentsline {subsection}{\numberline {4.1.1}Dark Souls 2}{25}
+\contentsline {paragraph}{Genre: Action / RPG \\ Separate tutorial: No \\}{25}
+\contentsline {subsection}{\numberline {4.1.2}Ori and the Blind Forest}{26}
+\contentsline {paragraph}{Genre: Platformer \\ Separate tutorial: No \\}{26}
+\contentsline {subsection}{\numberline {4.1.3}Heroes of the Storm}{27}
+\contentsline {paragraph}{Genre: MOBA \\ Separate tutorial: Yes \\}{27}
+\contentsline {subsection}{\numberline {4.1.4}Psychonauts}{28}
+\contentsline {paragraph}{Genre: 3D Platformer / Action-adventure \\ Separate tutorial: No \\}{28}
+\contentsline {subsection}{\numberline {4.1.5}Quake Live}{29}
+\contentsline {paragraph}{Genre: FPS \\ Separate tutorial: Yes \\}{29}
+\contentsline {subsection}{\numberline {4.1.6}Rocket League}{29}
+\contentsline {paragraph}{Genre: Sports / Soccer / Racing \\ Separate tutorial: Yes \\}{29}
+\contentsline {subsection}{\numberline {4.1.7}Guild Gear Xrd Revelator}{30}
+\contentsline {paragraph}{Genre: Fighting \\ Separate tutorial: Yes \\}{30}
+\contentsline {subsection}{\numberline {4.1.8}Quake Champions (beta)}{31}
+\contentsline {paragraph}{Genre: FPS \\ Separate tutorial: Yes \\}{31}
+\contentsline {subsection}{\numberline {4.1.9}Dead Cells}{32}
+\contentsline {paragraph}{Genre: 2D Platformer / Rogue-lite \\ Separate tutorial: No \\}{32}
+\contentsline {subsection}{\numberline {4.1.10}The Banner Saga}{32}
+\contentsline {paragraph}{Genre: Turn-based strategy / RPG \\ Separate tutorial: No \\}{32}
+\contentsline {subsection}{\numberline {4.1.11}Child of Light}{33}
+\contentsline {paragraph}{Genre: 2D Platformer / Turn-based combat \\ Separate tutorial: No \\}{33}
+\contentsline {subsection}{\numberline {4.1.12}SWAT 4}{34}
+\contentsline {paragraph}{Genre: Tactical shooter \\ Separate tutorial: Yes \\}{34}
+\contentsline {subsection}{\numberline {4.1.13}This War of Mine}{34}
+\contentsline {paragraph}{Genre: 2D / Point \& Click \\ Separate tutorial: No \\}{34}
+\contentsline {subsection}{\numberline {4.1.14}Hitman}{34}
+\contentsline {paragraph}{Genre: Action / Stealth \\ Separate tutorial: Yes \\}{35}
+\contentsline {subsection}{\numberline {4.1.15}Binary Domain}{35}
+\contentsline {paragraph}{Genre: Third-person shooter \\ Separate tutorial: No \\}{35}
+\contentsline {subsection}{\numberline {4.1.16}Minecraft: Pocket Edition}{36}
+\contentsline {paragraph}{Genre: Sandbox / Survial \\ Separate tutorial: No \\}{36}
+\contentsline {subsection}{\numberline {4.1.17}Monument Valley}{36}
+\contentsline {paragraph}{Genre: Puzzle \\ Separate tutorial: No \\}{36}
+\contentsline {subsection}{\numberline {4.1.18}New Star Soccer}{36}
+\contentsline {paragraph}{Genre: Sports \\ Separate tutorial: No \\}{36}
+\contentsline {subsection}{\numberline {4.1.19}Insurgency}{37}
+\contentsline {paragraph}{Genre: Tactical shooter \\ Separate tutorial: Yes \\}{37}
+\contentsline {subsection}{\numberline {4.1.20}Hammerwatch}{37}
+\contentsline {paragraph}{Genre: Hack and slash / Dungeon crawler \\ Separate tutorial: No \\}{37}
+\contentsline {chapter}{\numberline {5}Analyzing expert review results}{38}
+\contentsline {chapter}{\numberline {6}Conclusion}{39}
+\contentsline {chapter}{\numberline {A}General heuristics}{43}
+\contentsline {chapter}{\numberline {B}Heuristics for tutorials}{45}

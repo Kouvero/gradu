@@ -2,19 +2,84 @@
 Previously we have talked about what heuristics are and how they relate to usability testing. In this chapter the focus is on finding a set of applicable heuristics for evaluating video game tutorials, and constructing a set of heuristics from that pool to use in our expert review. We also have to form a selection of games that will be the target of our evaluation.
 
 \section{Building heuristics}
-There are a number of papers and studies on the use of different heuristics in video game research and testing. Our problem here is that they are mostly related to the general game experience and how the game plays from "start to finish" in a sense. We have a rather specific part of a game --- the tutorial --- that we want to evaluate, and not all heuristics are applicable or specific enough to be used with the part in question. After a literature review on the topic there are a number of sources we will be using to combine our heuristics. \cite{Desurvire2004}, \cite{Desurvire2009}, \cite{Federoff2002}, \cite{Pinelle2008}
-The important thing here is to remember, that not all of these heuristics are applicable to tutorials, so we must dissect them a little bit, all the while keeping in mind the different types of video game genres they could be applied to. What follow are tutorial-specific compiled lists from separate heuristic guidelines for video game usability.
+There are a number of papers and studies on the use of different heuristics in video game research and testing. Our problem here is that they are mostly related to the general game experience and how the game plays from "start to finish" in a sense. We have a rather specific part of a game --- the tutorial --- that we want to evaluate, and not all heuristics are applicable or specific enough to be used with the part in question. For example, what is generally called the Nielsen's 10 heuristics are as follows \cite{Nielsen1993}: 
 
+\begin{enumerate}
+	\item Visibility of system status
+	\item Match between system and the real world
+	\item User control and freedom
+	\item Consistency and standards
+	\item Error prevention
+	\item Recognition rather than recall
+	\item Flexibility and efficiency of use
+	\item Aesthetic and minimalist design
+	\item Help users recognize, diagnose and recover from errors
+	\item Help and documentation
+\end{enumerate}
 
+This is a very broad set of heuristics that can be applied to user interface design in a rather straightforward manner. Since we will be looking at video games and their tutorials, it can be useful to look for a more specific set of heuristics. After a literature review on the topic there are a number of sources we will be using to combine our heuristics. \cite{Desurvire2004}, \cite{Desurvire2009}, \cite{Federoff2002}, \cite{Pinelle2008}
+The important thing here is to remember, that not all of these heuristics are applicable to tutorials, so we must dissect them a little bit, all the while keeping in mind the different types of video game genres they could be applied to. What follow are tutorial-specific compiled lists from separate heuristic guidelines for video game usability. Heuristic Evaluation for Playability (HEP) is a heuristic method for analyzing the usability and playability of games \cite{Desurvire2004}. It contains 43 items but not all of them can be directly applied to tutorials. Here is a list of heuristics, separated from the whole HEP, that is closely associated with tutorials and their design. The items are in the same relative order.
 
-\begin{figure}
-	\centering
-	\includegraphics[width=\textwidth]{HEP}
-	\caption{Tutorial-specific heuristics compiled from Desurvire et. al [2008].}
-\end{figure}
-\clearpage
+\begin{enumerate}
+	\item Provide clear goals, present overriding goal early as well as short-term goals throughout play.
+	\item There is an interesting and absorbing tutorial that mimics game play.
+	\item The first player action is painfully obvious and should result in immediate positive feedback.
+	\item Pace the game to apply pressure but not frustrate the player. Vary the difficulty level so that the player has greater challenge as they develop mastery. Easy to learn, hard to master.
+	\item Mechanics/controller actions have consistently mapped and learnable responses.
+	\item Shorten the learning curve by following the trends set by the gaming industry to meet user’s expectations.
+	\item Controls should be intuitive, and mapped in a natural way; they should be customizable and default to industry stan- dard settings.
+	\item Player should be given controls that are basic enough to learn quickly yet expandable for advanced options.
+	\item Provide immediate feedback for user actions.
+	\item The player can easily turn the game off and on, and be able to save games in different states.
+	\item The player experiences the user interface as consistent (in control, color, typography, and dialog design) but the game play is varied.
+	\item Players should be given context sensitive help while playing so that they do not get stuck or have to rely on a manual.
+	\item Sounds from the game provide meaningful feedback or stir a particular emotion.
+	\item Players do not need to use a manual to play game.
+	\item Get the player involved quickly and easily with tutorials and/or progressive or adjustable difficulty levels.
+\end{enumerate}
 
-The heuristics in Table 3.1 are from Heuristic Evaluation of Playability (HEP) \cite{Desurvire2004}. The original HEP contains 41 heuristics in total in four categories: Game Play, Game Story, Mechanics and Usability. Tutorial-specific heuristics could be found in all categories except Game Story.
+The original HEP contains 43 heuristics in total in four categories: Game Play, Game Story, Mechanics and Usability. Tutorial-specific heuristics could be found in all categories except Game Story. HEP was revisited in 2009 and was named Game Usability Heuristics (PLAY) for Evaluating and Designing Better Games: The Next Iteration \cite{Desurvire2009}. The categories in it have been reduced to three and are as follows: Game Play, Coolness/Entertainment/Humor/Emotional Immersion and Usability \& Game Mechanics. There are subcategories added to each three, which makes the heuristics a little more accurately categorized. We can see that even though there is still a separate category for usability, there are other heuristics that can be applied to tutorials as well, that can make the tutorial experience better but are not necessarily usability-related heuristics. In other words, a broader view not related only to usability can help make tutorials better. Below is a list of heuristics compiled from PLAY that we can use to evaluate tutorials.
+
+\begin{enumerate}
+	\item Easy to learn, hard to master.
+	\item The game goals are clear. The game provides clear goals, presents overriding goals early as well as short term goals throughout game play.
+	\item The skills needed to attain goals are taught early enough to play or use later, or right before the new skill is needed.
+	\item The first ten minutes of play and player actions are painfully obvious and should result in immediate and positive feedback for all types of players.
+	\item Players feel in control.
+	\item Player does not need to read the manual or documentation to play.
+	\item Player does not need to access the tutorial in order to play.
+	\item Game controls are consistent within the game and follow standard conventions.
+	\item Status score Indicators are seamless, obvious, available and do not interfere with game play.
+	\item Controls are intuitive, and mapped in a natural way; they are customizable and default to industry standard settings.
+	\item Consistency shortens the learning curve by following the trends set by the gaming industry to meet users’ expectations. If no industry standard exists, perform usability/playability research to ascertain the best mapping for the majority of intended players.
+	\item Game provides feedback and reacts in a consistent, immediate, challenging and exciting way to the players’ actions.
+	\item Provide appropriate audio/visual/visceral feedback (music, sound effects, controller vibration).
+	\item Player is given controls that are basic enough to learn quickly, yet expandable for advanced options for advanced players.
+	\item Player interruption is supported, so that players can easily turn the game on and off and be able to save the games in different states.
+	\item Upon turning on the game, the player has enough information to begin play.
+	\item Players should be given context sensitive help while playing so that they are not stuck and need to rely on a manual for help.
+	\item All levels of players are able to play and get involved quickly and easily with tutorials, and/or progressive or adjustable difficulty levels.
+\end{enumerate}
+
+It is apparent that some parts have remained the same or have been reworded, and also new heuristics have been introduced. The heuristic "there is an interesting and absorbing tutorial that mimics game play" from the original HEP has been left out, but some games do not necessarily offer any kind of help to the player, so it is a good heuristic to include when researching games. 
+
+The heuristics compiled by Federoff (2002) are very similar to the previous ones. In the following list we will leave out the ones that are similar to the ones already presented in HEP and PLAY.
+
+\begin{enumerate}
+	\item Get the player involved quickly and easily.
+	\item The game should give hints, but not too many.
+\end{enumerate}
+
+As we can see, what is left is a lot shorter list of heuristics. Once again, in the following list the same operation has been performed to the heuristics compiled by Pinelle et al. \cite{Pinelle2008}
+
+\begin{enumerate}
+	\item Allow users to skip non-playable and frequently repeated content.
+	\item Provide instructions, training, and help.
+\end{enumerate}
+
+This list is not very long either. The basic principles for tutorials are somewhat scarce. When we are looking at a number of games in the following chapters, we will try to find elements that could be helpful to add in these heuristics, and also see which of the heuristics defined here are already applied or applicable to these tutorials.
+
+It has been said that the majority of the forementioned Nielsen's heuristics are mostly helpful when analyzing user interfaces \cite{Federoff2002}. In the game-related heuristics it seems that the emphasis is often on game play and general usability, but tutorials are not addressed very specifically, very often only in the form that there should be one. It is also interesting to note that even though the tutorial can be in its own category when heuristics are defined, it can still have many elements from different heuristics categories. It is not only that there is a tutorial element in the game, but also that the tutorial has elements from a wide range of elements in the gameplay heuristics. This means that tutorials can be evaluated e.g. from a gameplay perspective, not only from a tutorial or a usability perspective. The game goals being clear and that the skills needed to attain those goals are taught in an orderly fashion belong in a sense to gameplay heuristics, but those can be easily applied to tutorial settings as well. However, some of these heuristics are still too general and vague for considering tutorials. The final combined list of the necessary heuristics presented here is availabe in Appendix A.
 
 \section{Defining tutorials}
 In general the word \textit{tutorial} refers to transferring of knowledge. It can be used in different contexts. Here we are mostly concerned with computers and how video games are explained within. In games, it's possible that there is an entirely separate section that teaches the fundamentals of the game to the player. Another---if not perhaps the more common---design choice is to embed the tutorial in the regular gameplay. This can mean that the player is learning different ways to play hours into the game, and not only during some initial short introduction to the controls and mechanics etc. It can also help with the storytelling and drama when it's not clear from the very start what kind of things to expect from the game. The player might be wondering if they are ever going to get a gun for example. Then, after a couple of hours of playing and sneaking in a scary environment, they find a pistol and and experience relief. If the gun mechanics and controls would be introduced early on, it might not create tension in an optimal way.
@@ -26,3 +91,5 @@ There needs to be some basic fundamentals for how we choose the video games we w
 	\item To be refereed by specialized web sites for game quality assessment.
 	\item To have at least one significant usability problem that clearly emerges at some point of the gameplay.
 \end{enumerate}
+
+The time frame of the last ten years does not feel like something that should be very strict. There are great examples of games that are eleven years old, for example. Here we will just make the point of not playing only the latest games, but rather good or known games in general. We also can not confirm point three beforehand. It can be very likely that there are at least some kind of usability problems in every game we are going to look at, and e.g. some might not have a tutorial at all. The key point still is not to find errors. We want to look at games and their tutorials, see how they are made, what they feel like, what elements they have in common with previously defined heuristics and what new things can we learn from the games to apply to a newer set of heuristics more closely related to video game tutorials.
