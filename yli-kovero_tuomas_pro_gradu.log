@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.3)  16 AUG 2017 09:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.3)  16 AUG 2017 13:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -380,26 +380,32 @@ Chapter 4.
 
 
 
-] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35]
-Overfull \hbox (0.15144pt too wide) in paragraph at lines 152--152
+] [26] [27] [28] [29] [30] [31] [32] [33]
+Overfull \hbox (1.37848pt too wide) in paragraph at lines 141--142
+ \OT1/cmr/bx/n/12 Take-aways:[] \OT1/cmr/m/n/12 Con-sider us-ing a sep-a-rate v
+ideo that can be avail-able on-line to demon-
+ []
+
+[34] [35] [36] [37]
+Overfull \hbox (0.15144pt too wide) in paragraph at lines 185--185
 []\OT1/cmr/bx/n/14.4 Minecraft: Pocket Edi-tion (An-droid) (Mo-jang, 2016) 
  []
 
-[36] [37]) [38]
+[38] [39]) [40]
 \openout2 = `analysis.aux'.
 
  (./analysis.tex
 Chapter 5.
-) [39
+[41
 
 
 
-]
+] [42] [43] [44] [45] [46] [47] [48]) [49]
 \openout2 = `5conclusion.aux'.
 
  (./5conclusion.tex
 Chapter 6.
-) [40
+) [50
 
 
 
@@ -408,7 +414,7 @@ Underfull \hbox (badness 1314) in paragraph at lines 4--10
 []\OT1/cmr/m/n/12 Bauckhage, C., Ker-st-ing, K., Sifa, R., Thu-rau, C.,
  []
 
-[41
+[51
 
 
 ]
@@ -421,7 +427,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--88
 []\OT1/cmr/m/n/12 Merriam-Webster (2017b).  Merriam-Webster.
  []
 
-[42]) [43]
+[52]) [53]
 \openout2 = `appendix.aux'.
 
  (./appendix.tex
@@ -442,12 +448,12 @@ Missing character: There is no ™ in font cmr12!
 Underfull \vbox (badness 10000) detected at line 25
  []
 
-[44
+[54
 
 
-] [45]
+] [55]
 Appendix B.
-) [46
+) [56
 
 ] (./yli-kovero_tuomas_pro_gradu.aux (./1introduction.aux)
 (./2definitions.aux) (./3methods.aux) (./games.aux) (./analysis.aux)
@@ -467,10 +473,10 @@ ype1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmti12.pfb>
-Output written on yli-kovero_tuomas_pro_gradu.pdf (48 pages, 266428 bytes).
+Output written on yli-kovero_tuomas_pro_gradu.pdf (58 pages, 283747 bytes).
 PDF statistics:
- 187 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
+ 219 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

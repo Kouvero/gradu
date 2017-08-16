@@ -2,7 +2,7 @@ TAKEAWAYS
 Usability seems generally more universal than the usability of video game tutorials. Usability of a tutorial can not be generalized in the same way as easily as general usability of an interface for example.
 
 Dark Souls 2:
-The tutorial reflects the desired gameplay experience. It is not supposed to be forced on the player even in the early stage.
+The tutorial reflects the intended gameplay experience. It is not supposed to be forced on the player even in the early stage.
 
 Ori and the Blind Forest:
 The tutorial reflects the pacing of the gameplay. Teach mechanics in the proper context when they are first needed.
