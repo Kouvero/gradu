@@ -1,0 +1,66 @@
+TAKEAWAYS
+Usability seems generally more universal than the usability of video game tutorials. Usability of a tutorial can not be generalized in the same way as easily as general usability of an interface for example.
+
+Dark Souls 2:
+The tutorial reflects the desired gameplay experience. It is not supposed to be forced on the player even in the early stage.
+
+Ori and the Blind Forest:
+The tutorial reflects the pacing of the gameplay. Teach mechanics in the proper context when they are first needed.
+
+Heroes of the Storm:
+Have separate tutorials for different aspects of the gameplay if necessary (e.g. character development and arena-specific mechanics)
+
+Psychonauts:
+Teach basic movement controls interactively before the actual game starts.
+Have the first area of the game be a tutorial section that needs to be completed before the rest of the game becomes available.
+
+Quake Live:
+Think about the possibility of combining video demonstrations with the tutorial.
+Use a training match with an NPC character for familiarity before playing against actual people.
+
+Rocket League:
+When teaching controls, consider only allowing the currently required controls to be available and pace the tutorial accordingly.
+
+Guilty Gear Xrd Revelator:
+Use a detailed obstacle course to make sure all the required controls are used.
+Go beyond the basic controls and teach possible combinations and applications of the controls that will allow the player to start thinking about his own style and variations.
+
+Quake Champions (beta):
+Consider using a separate video that can be available online to demonstrate the basic principles of the game.
+
+Dead Cells (early access):
+The tutorial does not have to be any longer than necessary, i.e. a very short tutorial is acceptable. Locking further progress without completing required actions is still an option, however, no matter how simple they are.
+
+The Banner Saga:
+Use visual cues to help locate required actions in the user interface. Keywords and concepts can be highlighted or colorcoded in the tutorial text. Have a help menu accessible from the main interface.
+
+Child of Light:
+Have an option to turn off in-game tutorials.
+
+SWAT 4:
+In a more realistics setting consider copying a real world training scenario if there is one.
+
+This War of Mine:
+Lack of knowledge can be used as a game dynamic, i.e. not giving out information even if it was possible to do so.
+
+Hitman:
+Go through a whole single mission applying other heuristic principles to show how the game is played step by step.
+
+Binary Domain:
+Use context-sensitive information throughout the game to show when certain actions are possible, e.g. being able to take cover behind an obstacle. Ask the player whether they want to view basic controls or not.
+
+Minecraft: Pocket Edition
+It is important to consider showing basic information about the game, no matter how simple it may feel to the developer or designer.
+
+Monument Valley:
+Even simple mechanics should be presented in a clear and noticeable manner.
+
+New Star Soccer:
+Include a practise mode for basic mechanics if they are difficult enough to master.
+Context-sensitive help can also come up after, not before, the player takes actions, so they can discover things at their own pace.
+
+Insurgency:
+Even in a realistic setting, using visual cues in the environment can be justified in a tutorial to enhance the speed of learning.
+
+Hammerwatch:
+The tutorial can also be about what the character can or should do, not how.

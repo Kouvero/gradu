@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: yli-kovero_tuomas_pro_gradu.aux
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: yli-kovero_tuomas_pro_gradu.aux
 A level-1 auxiliary file: 1introduction.aux
 A level-1 auxiliary file: 2definitions.aux
 A level-1 auxiliary file: 3methods.aux
@@ -12,4 +14,45 @@ Warning--empty publisher in Isbister2008
 Warning--can't use both volume and number fields in Nielsen1993
 Warning--empty publisher in Nielsen1993
 Warning--there's a number but no volume in Nielsen1990
+You've used 21 entries,
+            1935 wiz_defined-function locations,
+            615 strings with 7497 characters,
+and the built_in function-call counts, 8474 in all, are:
+= -- 852
+> -- 300
+< -- 23
++ -- 100
+- -- 98
+* -- 646
+:= -- 1412
+add.period$ -- 57
+call.type$ -- 21
+change.case$ -- 151
+chr.to.int$ -- 19
+cite$ -- 25
+duplicate$ -- 368
+empty$ -- 591
+format.name$ -- 127
+if$ -- 1721
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 20
+newline$ -- 102
+num.names$ -- 63
+pop$ -- 152
+preamble$ -- 1
+purify$ -- 154
+quote$ -- 0
+skip$ -- 311
+stack$ -- 0
+substring$ -- 592
+swap$ -- 99
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 120
+warning$ -- 4
+while$ -- 74
+width$ -- 0
+write$ -- 257
 (There were 4 warnings)

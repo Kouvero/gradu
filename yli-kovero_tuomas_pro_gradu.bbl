@@ -13,6 +13,12 @@ Bevan, N. (2006).
 \newblock {International Standards for HCI}.
 \newblock {\em Encyclopedia of Human Computer Interaction}, 55(May):1--15.
 
+\bibitem[Carter et~al., 2014]{Carter2014}
+Carter, M., Downs, J., Nansen, B., Harrop, M., and Gibbs, M. (2014).
+\newblock {Paradigms of games research in HCI}.
+\newblock {\em Proceedings of the first ACM SIGCHI annual symposium on
+  Computer-human interaction in play - CHI PLAY '14}, pages 27--36.
+
 \bibitem[Carvajal et~al., 2013]{Carvajal2013}
 Carvajal, L., Moreno, A.~M., S{\'{a}}nchez-Segura, M.~I., and Seffah, A.
   (2013).
@@ -65,9 +71,20 @@ ISO (1998).
 Kahneman, D., Slovic, P., and Tversky, A. (1982).
 \newblock {Judgment under uncertainty}.
 
-\bibitem[Merriam-Webster, 2017]{merriam2007}
-Merriam-Webster (2017).
+\bibitem[Livingston et~al., 2010]{Livingston2010}
+Livingston, I.~J., Mandryk, R.~L., and Stanley, K.~G. (2010).
+\newblock {Critic-Proofing : How Using Critic Reviews and Game Genres can
+  Refine Heuristic Evaluations}.
+\newblock {\em Evaluation}, pages 48--55.
+
+\bibitem[Merriam-Webster, 2017a]{merriam2007}
+Merriam-Webster (2017a).
 \newblock https://www.merriam-webster.com/dictionary/heuristic.
+
+\bibitem[Merriam-Webster, 2017b]{tutorial}
+Merriam-Webster (2017b).
+\newblock {Merriam-Webster.
+  https://www.merriam-webster.com/dictionary/tutorial}.
 
 \bibitem[Nielsen, 1993]{Nielsen1993}
 Nielsen, J. (1993).
