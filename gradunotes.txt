@@ -30,7 +30,7 @@ There are very little heuristics related to tutorials in the literature
 Games are a voluntary activity, so the requirement for good usability and guidance becomes even more important, because the first hours of the game are the most imporant time to keep the player playing the game.
 Player retention is not all about the tutorials, since some tutorials last for a very long time and are not a separate section at the very beginning of the game. Tutorials can be coming up many hours into the game.
 The games have been selected based on personal preference among many different genres.
-ISO/IEC 9216-1 says: usability is related to the specified conditions. Conditions of playing a game vs. using productivity software ("when used under specified conditions")
+ISO/IEC 9126-1 says: usability is related to the specified conditions. Conditions of playing a game vs. using productivity software ("when used under specified conditions")
 Quality in use: the capability of the software product to enable specified users to achieve specified gaols with effectiveness, productivity, safety and satisfaction in specified contexts of use.
 Even with video game tutorials, we can return to these basic definitions of usability and realize that they would be an important part to take into account during the development process and tutorial design.
 Is it enough if tutorials are efficient, do they also have to be fun? Is fun the task of the core game, not the tutorial, or both?

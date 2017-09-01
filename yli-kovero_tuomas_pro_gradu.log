@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.3)  1 SEP 2017 13:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.3)  1 SEP 2017 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -345,15 +345,10 @@ Missing character: There is no “ in font cmti12!
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no “ in font cmti12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
-
- []
-
 Missing character: There is no Â in font cmr12!
 Missing character: There is no § in font cmr12!
-[13]
-Overfull \hbox (21.13594pt too wide) in paragraph at lines 95--96
+ [13]
+Overfull \hbox (21.13594pt too wide) in paragraph at lines 97--98
 \OT1/cmr/m/n/12 ple use to tackle com-plex prob-lems with in-com-plete in-for-m
 a-tion [[]].
  []
@@ -396,13 +391,13 @@ Chapter 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 84.
  [34] [35]
-Overfull \hbox (1.37848pt too wide) in paragraph at lines 140--141
+Overfull \hbox (1.37848pt too wide) in paragraph at lines 137--138
  \OT1/cmr/bx/n/12 Take-aways:[] \OT1/cmr/m/n/12 Con-sider us-ing a sep-a-rate v
 ideo that can be avail-able on-line to demon-
  []
 
 [36] [37] [38] [39] [40]
-Overfull \hbox (0.15144pt too wide) in paragraph at lines 184--184
+Overfull \hbox (0.15144pt too wide) in paragraph at lines 181--181
 []\OT1/cmr/bx/n/14.4 Minecraft: Pocket Edi-tion (An-droid) (Mo-jang, 2016) 
  []
 
@@ -415,24 +410,24 @@ Chapter 5.
 
 
 
-] [45] [46] [47] [48] [49] [50] [51]) [52]
+] [45] [46] [47] [48] [49] [50] [51] [52]) [53]
 \openout2 = `5conclusion.aux'.
 
  (./5conclusion.tex
 Chapter 6.
-[53
+[54
 
 
 
-]) [54] [55] (./yli-kovero_tuomas_pro_gradu.bbl
+] [55]) [56] [57] (./yli-kovero_tuomas_pro_gradu.bbl
 Underfull \hbox (badness 1314) in paragraph at lines 22--28
 []\OT1/cmr/m/n/12 Bauckhage, C., Ker-st-ing, K., Sifa, R., Thu-rau, C.,
  []
 
-[56
+[58
 
 
-] [57] [58]
+] [59] [60]
 Underfull \hbox (badness 5726) in paragraph at lines 152--154
 []\OT1/cmr/m/n/12 Merriam-Webster (2017a).  https://www.merriam-
  []
@@ -442,7 +437,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 156--159
 []\OT1/cmr/m/n/12 Merriam-Webster (2017b).  Merriam-Webster.
  []
 
-[59]) [60]
+[61]) [62]
 \openout2 = `appendix.aux'.
 
  (./appendix.tex
@@ -463,12 +458,12 @@ Missing character: There is no ™ in font cmr12!
 Underfull \vbox (badness 10000) detected at line 25
  []
 
-[61
+[63
 
 
-] [62]
+] [64]
 Appendix B.
-) [63
+) [65
 
 ] (./yli-kovero_tuomas_pro_gradu.aux (./1introduction.aux)
 (./2definitions.aux) (./3methods.aux) (./games.aux) (./analysis.aux)
@@ -480,7 +475,7 @@ Here is how much of TeX's memory you used:
  6715 multiletter control sequences out of 15000+600000
  10061 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,23p,3434b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,23p,3591b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/font
 s/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
@@ -490,10 +485,10 @@ e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmti12.pfb>
-Output written on yli-kovero_tuomas_pro_gradu.pdf (65 pages, 314899 bytes).
+Output written on yli-kovero_tuomas_pro_gradu.pdf (67 pages, 319388 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
+ 256 PDF objects out of 1000 (max. 8388607)
+ 175 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
