@@ -23,3 +23,19 @@ Mechanics vs. usability (HEP article)
 
 2017-5-8
 Although in traditional usability contexts it can generally be important to know as a user what you are supposed to do next, which in turn means that you know what you want to be doing. A piece of software is seen as a tool here, that was built to complete a certain predefined task, help organize information etc. Video games, however, don't necessarily always follow this pattern. There are many open-ended games that don't give a you a set of predefined tasks you need to complete in order to proceed (Chris Crawford etc.). Comparing straightforward action games where the only way is forward and you keep building on the things you complete while playing, games with a more free form don't know what you want to do next. You can take many paths (e.g. in the so-called 4X games (eXplore, eXpand, eXploit, and eXterminate), i.e. you can't always be offered everything at once, rather the game adapts to your choices and presents information based on what you choose to do at a given time. Stellaris has a contextual tutorial.
+
+2017-8-28
+Notes for conclusion:
+There are very little heuristics related to tutorials in the literature
+Games are a voluntary activity, so the requirement for good usability and guidance becomes even more important, because the first hours of the game are the most imporant time to keep the player playing the game.
+Player retention is not all about the tutorials, since some tutorials last for a very long time and are not a separate section at the very beginning of the game. Tutorials can be coming up many hours into the game.
+The games have been selected based on personal preference among many different genres.
+ISO/IEC 9216-1 says: usability is related to the specified conditions. Conditions of playing a game vs. using productivity software ("when used under specified conditions")
+Quality in use: the capability of the software product to enable specified users to achieve specified gaols with effectiveness, productivity, safety and satisfaction in specified contexts of use.
+Even with video game tutorials, we can return to these basic definitions of usability and realize that they would be an important part to take into account during the development process and tutorial design.
+Is it enough if tutorials are efficient, do they also have to be fun? Is fun the task of the core game, not the tutorial, or both?
+Games have outcomes and are completed, they are not used indefinitely like productivity software. But also, games can still have many options, and it is not necessarily a good idea to teach everything first, but rather do it right before the player takes a certain action.
+Finding what is meaningful for tutorials from existing heuristics for games.
+A tutorial is the general way the game teaches how it is played, not a separate section in the game (explicit and implicit tutorials).
+
+

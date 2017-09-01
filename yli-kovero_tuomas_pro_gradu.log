@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.3)  16 AUG 2017 13:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.3)  1 SEP 2017 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -320,13 +320,25 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
  [7]
-<img/hci_standards.png, id=37, 543.53062pt x 191.9672pt>
+[8] <img/hci_standards.png, id=40, 543.53062pt x 191.9672pt>
 File: img/hci_standards.png Graphic file (type png)
 
 <use img/hci_standards.png>
 Package pdftex.def Info: img/hci_standards.png used on input line 51.
 (pdftex.def)             Requested size: 426.79135pt x 150.74437pt.
- [8] [9 <./img/hci_standards.png>] [10] [11]
+ [9 <./img/hci_standards.png>]
+Overfull \hbox (13.65083pt too wide) in paragraph at lines 75--76
+\OT1/cmr/m/n/12 games be-fore, when the ques-tion be-comes more im-por-tant. [[
+]]
+ []
+
+[10]
+Overfull \hbox (29.19975pt too wide) in paragraph at lines 77--78
+\OT1/cmr/m/n/12 prob-lems can be found in the us-abil-ity of dif-fer-ent video 
+game gen-res [[]].
+ []
+
+[11] [12]
 Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no “ in font cmti12!
@@ -334,28 +346,28 @@ Missing character: There is no â in font cmti12!
 Missing character: There is no € in font cmti12!
 Missing character: There is no “ in font cmti12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 Missing character: There is no Â in font cmr12!
 Missing character: There is no § in font cmr12!
-[12]
-Overfull \hbox (21.13594pt too wide) in paragraph at lines 93--94
+[13]
+Overfull \hbox (21.13594pt too wide) in paragraph at lines 95--96
 \OT1/cmr/m/n/12 ple use to tackle com-plex prob-lems with in-com-plete in-for-m
 a-tion [[]].
  []
 
-[13] [14]) [15] [16]
+[14] [15]) [16] [17]
 \openout2 = `3methods.aux'.
 
  (./3methods.tex
 Chapter 3.
-[17
+[18
 
 
 
-] [18]
+] [19]
 Overfull \hbox (5.14305pt too wide) in paragraph at lines 28--29
 []\OT1/cmr/m/n/12 Mechanics/controller ac-tions have con-sis-tently mapped and 
 learn-able re-sponses. 
@@ -364,70 +376,73 @@ learn-able re-sponses.
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
-[19] [20]
+[20] [21]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
- [21] [22] [23]) [24]
+ [22] [23] [24]) [25] [26]
 \openout2 = `games.aux'.
 
  (./games.tex
 Chapter 4.
-[25
+[27
 
 
 
-] [26] [27] [28] [29] [30] [31] [32] [33]
-Overfull \hbox (1.37848pt too wide) in paragraph at lines 141--142
+] [28] [29] [30] [31] [32] [33]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 84.
+ [34] [35]
+Overfull \hbox (1.37848pt too wide) in paragraph at lines 140--141
  \OT1/cmr/bx/n/12 Take-aways:[] \OT1/cmr/m/n/12 Con-sider us-ing a sep-a-rate v
 ideo that can be avail-able on-line to demon-
  []
 
-[34] [35] [36] [37]
-Overfull \hbox (0.15144pt too wide) in paragraph at lines 185--185
+[36] [37] [38] [39] [40]
+Overfull \hbox (0.15144pt too wide) in paragraph at lines 184--184
 []\OT1/cmr/bx/n/14.4 Minecraft: Pocket Edi-tion (An-droid) (Mo-jang, 2016) 
  []
 
-[38] [39]) [40]
+[41] [42]) [43]
 \openout2 = `analysis.aux'.
 
  (./analysis.tex
 Chapter 5.
-[41
+[44
 
 
 
-] [42] [43] [44] [45] [46] [47] [48]) [49]
+] [45] [46] [47] [48] [49] [50] [51]) [52]
 \openout2 = `5conclusion.aux'.
 
  (./5conclusion.tex
 Chapter 6.
-) [50
+[53
 
 
 
-] (./yli-kovero_tuomas_pro_gradu.bbl
-Underfull \hbox (badness 1314) in paragraph at lines 4--10
+]) [54] [55] (./yli-kovero_tuomas_pro_gradu.bbl
+Underfull \hbox (badness 1314) in paragraph at lines 22--28
 []\OT1/cmr/m/n/12 Bauckhage, C., Ker-st-ing, K., Sifa, R., Thu-rau, C.,
  []
 
-[51
+[56
 
 
-]
-Underfull \hbox (badness 5726) in paragraph at lines 81--83
+] [57] [58]
+Underfull \hbox (badness 5726) in paragraph at lines 152--154
 []\OT1/cmr/m/n/12 Merriam-Webster (2017a).  https://www.merriam-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
+Underfull \hbox (badness 10000) in paragraph at lines 156--159
 []\OT1/cmr/m/n/12 Merriam-Webster (2017b).  Merriam-Webster.
  []
 
-[52]) [53]
+[59]) [60]
 \openout2 = `appendix.aux'.
 
  (./appendix.tex
@@ -448,35 +463,37 @@ Missing character: There is no ™ in font cmr12!
 Underfull \vbox (badness 10000) detected at line 25
  []
 
-[54
+[61
 
 
-] [55]
+] [62]
 Appendix B.
-) [56
+) [63
 
 ] (./yli-kovero_tuomas_pro_gradu.aux (./1introduction.aux)
 (./2definitions.aux) (./3methods.aux) (./games.aux) (./analysis.aux)
 (./5conclusion.aux) (./appendix.aux)) ) 
 Here is how much of TeX's memory you used:
- 3242 strings out of 493014
- 47027 string characters out of 6133352
- 142217 words of memory out of 5000000
- 6692 multiletter control sequences out of 15000+600000
+ 3265 strings out of 493014
+ 47323 string characters out of 6133352
+ 142596 words of memory out of 5000000
+ 6715 multiletter control sequences out of 15000+600000
  10061 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,23p,3128b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,23p,3434b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/font
 s/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmti12.pfb>
-Output written on yli-kovero_tuomas_pro_gradu.pdf (58 pages, 283747 bytes).
+/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmti12.pfb>
+Output written on yli-kovero_tuomas_pro_gradu.pdf (65 pages, 314899 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 149 compressed objects within 2 object streams
+ 249 PDF objects out of 1000 (max. 8388607)
+ 170 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

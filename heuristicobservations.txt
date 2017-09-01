@@ -8,7 +8,7 @@ Ori and the Blind Forest:
 The tutorial reflects the pacing of the gameplay. Teach mechanics in the proper context when they are first needed.
 
 Heroes of the Storm:
-Have separate tutorials for different aspects of the gameplay if necessary (e.g. character development and arena-specific mechanics)
+Have separate tutorials for different aspects of the gameplay if necessary (e.g. character development and arena-specific mechanics).
 
 Psychonauts:
 Teach basic movement controls interactively before the actual game starts.
