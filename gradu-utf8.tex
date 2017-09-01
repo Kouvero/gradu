@@ -1,0 +1,83 @@
+\documentclass[a4paper,12pt,twoside]{article} % kaksipuolinen
+\usepackage[finnish]{babel}            %suomenkielinen tavutus ja sanasto
+\usepackage[T1]{fontenc}               %valitaan ääkkösfonttikoodaus
+\usepackage[utf8]{inputenc}        	% skandit utf-8 koodauksella
+\usepackage{graphicx}           %kuvat
+%\usepackage[dvips]{graphicx}           %ps-kuvat
+
+\setlength{\oddsidemargin}{1.85cm} %kaksipuoliset marginaalit
+\setlength{\evensidemargin}{0.35cm} %kaksipuoliset marginaalit
+
+\begin{document}
+
+\pagestyle{empty}  %ei sivunumeroa sivun alareunaan
+
+\begin{center}
+\includegraphics[width=4cm]{soihtu.eps} %talleta kuva linkistä omaan hakemistoosi
+\end{center}
+
+\vspace{3.0cm}
+\begin{center}\large
+GRADUN OTSIKKO
+\end{center}
+
+\vspace{0.5cm}
+\begin{center}
+Ewert Kupiainen
+\end{center}
+
+\vspace{0.5cm}
+\begin{center}
+Pro gradu -tutkielma\\
+Huhtikuu 2013
+\end{center}
+
+\vspace{5.0cm}
+\begin{center}
+MATEMATIIKAN JA TILASTOTIETEEN LAITOS\\
+TURUN YLIOPISTO\\
+\end{center}
+
+\cleardoublepage
+
+%säädetään 2-puolisen sivun marginaalit vaatimuksia vastaaviksi
+\addtolength{\oddsidemargin}{-1.1cm}
+\addtolength{\voffset}{-2.3cm}
+
+\begin{minipage}{15cm}
+
+\noindent
+TURUN YLIOPISTO\\
+Matematiikan ja tilastotieteen laitos\\
+\\
+KUPIAINEN, EWERT: Tiivistelmäsivun laadinta LaTeX-ladontaohjelmalla\\
+Pro gradu -tutkielma, 39 s., 12 liites.\\
+Matematiikka\\
+Huhtikuu 2013\\
+\rule{\textwidth}{.2mm}\\
+\\
+Tiivistelmäsivun tekeminen LaTeX-ladontajärjestelmällä on helppoa. Kopioidaan esimerkiksi www-sivulta tiivistelmäsivun LaTeX-koodi, jossa on valmiiksi oikeanlaiset marginaalit.
+
+\vspace{4mm}\noindent Sitten vain kirjoitellaan erittäin fiksua tekstiä tiivistelmäsivu täyteen. Muistetaan laittaa \noindent-komento kappaleen
+alkuun, niin LaTeX ei sisennä ensimmäistä riviä.
+
+\vspace{4mm}\noindent Tuo $\backslash$vspace-komento taasen jättää sopivan välin kappaleiden väliin - 4mm näyttää aika hyvältä.
+
+\vspace{4mm}\noindent Muistetaan lopettaa ajoissa ympäripyöreän liirumlaarumin kirjoittelu.
+
+\vspace{4mm}\noindent Asiasanat: tiivistelmäsivu, Pro gradu -tutkielma, LaTeX-ladontajärjestelmä.
+
+\end{minipage}
+
+\cleardoublepage
+
+\pagestyle{plain} 
+\setcounter{page}{1}
+
+%palautetaan 2-puolisen sivun marginaalit oletusasetuksiin
+\addtolength{\oddsidemargin}{1.1cm}
+\addtolength{\voffset}{2.3cm}
+
+Tästä alkaa työ.
+
+\end{document}

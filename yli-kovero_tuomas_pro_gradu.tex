@@ -6,29 +6,103 @@
 \usepackage{geometry}
 \usepackage{graphicx}
 \usepackage{csquotes}
+\usepackage{setspace}
+\usepackage{breakcites}
+\usepackage[utf8]{inputenc}
+\usepackage{tabto}
+\usepackage{hanging}
 \graphicspath{ {img/} }
 
 \marginsize{4cm}{2cm}{3cm}{3cm}
-\title{Heuristics for evaluating the usability of video game tutorials}
 
-\date{2017}
-\author{Tuomas Yli-Kovero\\
-  \small{Master's Thesis}\\
-  \small{University of Turku}\\
-  \small{Department of Future Technologies}}
-\renewcommand{\baselinestretch}{1.5}
 \begin{document}
 
-\maketitle
+\pagestyle{empty}
+\begin{center}
+	\includegraphics[width=4cm]{soihtu.png}
+\end{center}
+\vspace{3.0cm}
+\begin{center}\large
+Heuristics for evaluating the usability of video game tutorials
+\end{center}
 
-\begin{abstract}
-  UNIVERSITY OF TURKU\\
-  Department of Future Technologies
-\hrule
-\end{abstract}
 
+\vspace{0.5cm}
+\begin{center}
+	Tuomas Yli-Kovero
+\end{center}
+
+\vspace{0.5cm}
+\begin{center}
+	Master's thesis\\
+	September 2017
+\end{center}
+
+\vspace{5.0cm}
+\begin{center}
+	DEPARTMENT OF FUTURE TECHNOLOGIES\\
+	UNIVERSITY OF TURKU\\
+\end{center}
+
+\begin{minipage}{15cm}
+	\pagestyle{empty}
+	\noindent
+	UNIVERSITY OF TURKU\\
+	Department of future technologies\\
+	\\
+	\hangpara{5.4cm}{4}
+	YLI-KOVERO, TUOMAS: Heuristics for evaluating the usability of video game tutorials
+	
+	Master's thesis, 61 p., y appendix pages\\
+	Computer science\\
+	September 2017\\
+	\rule{\textwidth}{.2mm}\\
+	\\
+	The usability of video game tutorials is a research topic that has not yet been covered very extensively. It can be an important part of a game's player retention since tutorials often occur during the very first minutes of gameplay, so having a tool to evaluate the usability of said tutorials could be useful for game design. To address this problem, we have defined a set of heuristics in this thesis for evaluating the usability of video game tutorials.
+	
+	\vspace{4mm}\noindent The new heuristics are a combination of game evaluation heuristics found in the literature and heuristics based on the review of 20 different types of games. A total of 27 heuristics were identified. Reviewing of the games was based on existing research in usability, both in productivity software and video games, and applying this to the tutorial experience and thinking about how it could be enhanced based on personal game and usability knowledge and experience.
+	
+	\vspace{4mm}\noindent Additional, more extensive testing of these heuristics could provide improvements and benefits both for these heuristics and the development of video game tutorials. 
+	
+	\vspace{4mm}\noindent Keywords: video games, usability, tutorials, heuristics
+	
+\end{minipage}
+
+\begin{minipage}{15cm}
+	\noindent
+	TURUN YLIOPISTO\\
+	Tulevaisuuden teknologioiden laitos\\
+	\\
+	\hangpara{5.36cm}{4}
+	YLI-KOVERO, TUOMAS: Heuristiikkoja videopelitutoriaalien käytettävyyden arviointiin
+	
+	Pro gradu -tutkielma, 61 s., y liites.\\
+	Tietojenkäsittelytiede\\	
+	September 2017\\
+	\rule{\textwidth}{.2mm}\\
+	\\
+	The usability of video game tutorials is a research topic that has not yet been covered very extensively. It can be an important part of a game's player retention since tutorials often occur during the very first minutes of the gameplay, so having a tool to evaluate the usability of said tutorials could be a useful tool for game design.
+	
+	Tiivistelmäsivun tekeminen LaTeX-ladontajärjestelmällä on helppoa. Kopioidaan esimerkiksi www-sivulta tiivistelmäsivun LaTeX-koodi, jossa on valmiiksi oikeanlaiset marginaalit.
+	
+	\vspace{4mm}\noindent Sitten vain kirjoitellaan erittäin fiksua tekstiä tiivistelmäsivu täyteen. Muistetaan laittaa \noindent-komento kappaleen
+	alkuun, niin LaTeX ei sisennä ensimmäistä riviä.
+	
+	\vspace{4mm}\noindent Tuo $\backslash$vspace-komento taasen jättää sopivan välin kappaleiden väliin - 4mm näyttää aika hyvältä.
+	
+	\vspace{4mm}\noindent Muistetaan lopettaa ajoissa ympäripyöreän liirumlaarumin kirjoittelu.
+	
+	\vspace{4mm}\noindent Asiasanat: tiivistelmäsivu, Pro gradu -tutkielma, LaTeX-ladontajärjestelmä.
+	
+\end{minipage}
+\cleardoublepage
+\setstretch{1.5}
+\pagenumbering{gobble}
 \tableofcontents
-
+\cleardoublepage
+\pagenumbering{arabic}
+\pagestyle{plain} 
+\setcounter{page}{1}
 \include{1introduction}
 \include{2definitions}
 \include{3methods}
