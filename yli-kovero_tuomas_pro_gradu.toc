@@ -121,5 +121,5 @@
 \contentsline {paragraph}{27. The player should be able to save the game during the tutorial.}{50}
 \contentsline {section}{\numberline {5.3}How to use the heuristics}{50}
 \contentsline {chapter}{\numberline {6}Conclusion}{52}
-\contentsline {chapter}{\numberline {A}General heuristics from the bibliography}{62}
-\contentsline {chapter}{\numberline {B}Heuristics for tutorials}{64}
+\contentsline {chapter}{\numberline {A}Relevant heuristics related to tutorials in the bibliography}{62}
+\contentsline {chapter}{\numberline {B}Final heuristics identified for tutorials}{64}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.3)  2 SEP 2017 02:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.3)  2 SEP 2017 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -661,7 +661,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--85
  []
 
 
-Overfull \hbox (17.6248pt too wide) in paragraph at lines 71--98
+Overfull \hbox (17.6248pt too wide) in paragraph at lines 71--93
 []$[]$ 
  []
 
@@ -800,16 +800,20 @@ Underfull \vbox (badness 10000) detected at line 25
 
 ] [63]
 Appendix B.
-) [64
 
-] (./yli-kovero_tuomas_pro_gradu.aux (./1introduction.aux)
+Underfull \vbox (badness 10000) detected at line 60
+ []
+
+[64
+
+]) [65] (./yli-kovero_tuomas_pro_gradu.aux (./1introduction.aux)
 (./2definitions.aux) (./3methods.aux) (./games.aux) (./analysis.aux)
 (./5conclusion.aux) (./appendix.aux)) ) 
 Here is how much of TeX's memory you used:
- 3702 strings out of 493014
- 52010 string characters out of 6133352
- 147255 words of memory out of 5000000
- 7120 multiletter control sequences out of 15000+600000
+ 3703 strings out of 493014
+ 52015 string characters out of 6133352
+ 155290 words of memory out of 5000000
+ 7121 multiletter control sequences out of 15000+600000
  8847 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,8n,23p,3176b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -821,10 +825,10 @@ e1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb>
-Output written on yli-kovero_tuomas_pro_gradu.pdf (69 pages, 324194 bytes).
+Output written on yli-kovero_tuomas_pro_gradu.pdf (70 pages, 327222 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
+ 263 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
