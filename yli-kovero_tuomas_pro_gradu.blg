@@ -1,6 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: yli-kovero_tuomas_pro_gradu.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: yli-kovero_tuomas_pro_gradu.aux
 A level-1 auxiliary file: 1introduction.aux
 A level-1 auxiliary file: 2definitions.aux
 A level-1 auxiliary file: 3methods.aux
@@ -10,56 +8,18 @@ A level-1 auxiliary file: 5conclusion.aux
 The style file: apalike.bst
 A level-1 auxiliary file: appendix.aux
 Database file #1: library.bib
+Warning--I didn't find a database entry for "Lee"
+Warning--I didn't find a database entry for "Smith2017"
+Warning--I didn't find a database entry for "Pagulayan2003"
 Warning--there's a number but no volume in Almeida2010a
 Warning--there's a number but no volume in Andersen2012
+Warning--empty year in Bradley
 Warning--empty publisher in Isbister2008
 Warning--can't use both volume and number fields in Nielsen1993
 Warning--empty publisher in Nielsen1993
 Warning--there's a number but no volume in Nielsen1990
-Warning--empty publisher in Pagulayan2003
 Warning--empty publisher in Robbins2008
 Warning--empty institution in Schaffer2007
 Warning--can't use both volume and number fields in Tarkkanen2013
 Warning--empty publisher in Tarkkanen2013
-You've used 44 entries,
-            1935 wiz_defined-function locations,
-            759 strings with 11418 characters,
-and the built_in function-call counts, 17157 in all, are:
-= -- 1712
-> -- 649
-< -- 40
-+ -- 216
-- -- 214
-* -- 1367
-:= -- 2928
-add.period$ -- 118
-call.type$ -- 44
-change.case$ -- 323
-chr.to.int$ -- 42
-cite$ -- 55
-duplicate$ -- 706
-empty$ -- 1173
-format.name$ -- 266
-if$ -- 3409
-int.to.chr$ -- 3
-int.to.str$ -- 0
-missing$ -- 39
-newline$ -- 209
-num.names$ -- 132
-pop$ -- 305
-preamble$ -- 1
-purify$ -- 327
-quote$ -- 0
-skip$ -- 582
-stack$ -- 0
-substring$ -- 1174
-swap$ -- 157
-text.length$ -- 18
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 252
-warning$ -- 11
-while$ -- 151
-width$ -- 0
-write$ -- 534
-(There were 11 warnings)
+(There were 14 warnings)

@@ -3,7 +3,7 @@
 \bibitem[Adams, 2013]{Adams2013}
 Adams, E. (2013).
 \newblock {\em {Fundamentals of Game Design}}.
-\newblock New Riders, Berkeley, CA, 3 edition edition.
+\newblock New Riders, Berkeley, CA, 3rd edition.
 
 \bibitem[Almeida et~al., 2010]{Almeida2010a}
 Almeida, S., Mealha, {\'{O}}., and Veloso, A. (2010).
@@ -38,10 +38,9 @@ Bevan, N. (2006).
 \newblock {International Standards for HCI}.
 \newblock {\em Encyclopedia of Human Computer Interaction}, 55(May):1--15.
 
-\bibitem[Bradley, 2016]{Bradley}
-Bradley, A. (2016).
-\newblock {7 strategy games that every developer should study
-  http://ubm.io/2gwmXN9 Gamasutra 2017-9-1}.
+\bibitem[Bradley, ]{Bradley}
+Bradley, A.
+\newblock 7 strategy games that every developer should study.
 
 \bibitem[Brignull, 2013]{Brignull2013}
 Brignull, H. (2013).
@@ -52,7 +51,7 @@ Brignull, H. (2013).
 \bibitem[Bycer, 2016]{Bycer2016}
 Bycer, J. (2016).
 \newblock {How to Improve Education via Game Tutorials http://ubm.io/2w7QTpj
-  Gamasutra 2017-8-18}.
+  2017-8-18 Gamasutra 2017-8-18}.
 
 \bibitem[Carter et~al., 2014]{Carter2014}
 Carter, M., Downs, J., Nansen, B., Harrop, M., and Gibbs, M. (2014).
@@ -153,10 +152,10 @@ Korhonen, H., Paavilainen, J., and Saarenp{\"{a}}{\"{a}}, H. (2009).
   playability heuristic sets}.
 \newblock {\em MindTrek 2009}, pages 74--81.
 
-\bibitem[Lee, 2014]{Lee}
-Lee, T. (2014).
-\newblock {Game Design Deep Dive: How Rogue Legacy handles tutorials without
-  being boring http://ubm.io/2eqgSh9 Gamasutra 2017-9-1}.
+\bibitem[Lipp, 2012]{Lipp2012}
+Lipp, K. (2012).
+\newblock {User Experience beyond Usability}.
+\newblock {\em User Behavior}, pages 13--19.
 
 \bibitem[Livingston et~al., 2010]{Livingston2010}
 Livingston, I.~J., Mandryk, R.~L., and Stanley, K.~G. (2010).
@@ -198,11 +197,6 @@ Norman, D.~A. (2013).
 \newblock {\em {The Design of Everyday Things}}.
 \newblock Basic books.
 
-\bibitem[Pagulayan et~al., 2003]{Pagulayan2003}
-Pagulayan, R.~J., Keeker, K., Wixon, D., Romero, R.~L., and Fuller, T. (2003).
-\newblock {User-centered design in games}.
-\newblock In {\em Design}, volume~28, pages 883--906.
-
 \bibitem[Peever et~al., 2012]{Peever2012}
 Peever, N., Johnson, D., and Gardner, J. (2012).
 \newblock {Personality {\&} video game genre preferences}.
@@ -235,11 +229,6 @@ Robbins, A., Hannab, E., and Lamb, L. (2008).
 Schaffer, N. (2007).
 \newblock {Heuristics for usability in games}.
 \newblock Technical report.
-
-\bibitem[Smith, 2017]{Smith2017}
-Smith, G. (2017).
-\newblock {We need a revolution in tutorials http://bit.ly/2wYnP47 Rock, Paper,
-  Shotgun 2017-1-9}.
 
 \bibitem[Tarkkanen et~al., 2013]{Tarkkanen2013}
 Tarkkanen, K., Reijonen, P., T{\'{e}}tard, F., and Harkke, V. (2013).
