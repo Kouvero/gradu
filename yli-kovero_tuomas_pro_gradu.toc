@@ -1,125 +1,123 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {chapter}{\numberline {2}Theoretical concepts}{3}
-\contentsline {section}{\numberline {2.1}Usability}{3}
-\contentsline {subsection}{\numberline {2.1.1}Usability in software}{6}
-\contentsline {subsection}{\numberline {2.1.2}Usability in video games}{9}
-\contentsline {section}{\numberline {2.2}Heuristics in usability}{11}
-\contentsline {section}{\numberline {2.3}The role of the tutorial in a video game}{15}
-\contentsline {chapter}{\numberline {3}Methods for expert review}{16}
-\contentsline {section}{\numberline {3.1}Choosing heuristics}{17}
-\contentsline {section}{\numberline {3.2}Defining tutorials}{23}
-\contentsline {section}{\numberline {3.3}Basis for selecting applicable video games}{23}
-\contentsline {chapter}{\numberline {4}Chosen games and their tutorials}{25}
-\contentsline {section}{\numberline {4.1}Initial impressions and takeaways}{26}
-\contentsline {subsection}{\numberline {4.1.1}\textit {Dark Souls 2}}{27}
-\contentsline {paragraph}{Developer \& year: FromSoftware, 2014 \\ Genre: Action / RPG \\ Separate tutorial: No \\}{27}
-\contentsline {paragraph}{Takeaways:}{28}
-\contentsline {subsection}{\numberline {4.1.2}\textit {Ori and the Blind Forest}}{28}
-\contentsline {paragraph}{Developer \& year: Moon Studios, 2015 \\ Genre: 2D Platformer \\ Separate tutorial: No \\}{28}
-\contentsline {paragraph}{Takeaways:}{29}
-\contentsline {subsection}{\numberline {4.1.3}\textit {Heroes of the Storm}}{29}
-\contentsline {paragraph}{Developer \& year: Blizzard Entertainment, 2015 \\ Genre: MOBA (Multiplayer online battle arena) \\ Separate tutorial: Yes \\}{29}
-\contentsline {paragraph}{Takeaways:}{30}
-\contentsline {subsection}{\numberline {4.1.4}\textit {Psychonauts}}{31}
-\contentsline {paragraph}{Developer \& year: Double Fine Productions, 2005 \\ Genre: 3D Platformer / Action-adventure \\ Separate tutorial: No \\}{31}
+\contentsline {chapter}{\numberline {2}Theoretical concepts}{4}
+\contentsline {section}{\numberline {2.1}Usability}{4}
+\contentsline {subsection}{\numberline {2.1.1}Usability in software}{7}
+\contentsline {subsection}{\numberline {2.1.2}Usability in video games}{10}
+\contentsline {section}{\numberline {2.2}Heuristics in usability}{12}
+\contentsline {section}{\numberline {2.3}The role of the tutorial in a video game}{16}
+\contentsline {chapter}{\numberline {3}Methods for expert review}{18}
+\contentsline {section}{\numberline {3.1}Choosing heuristics}{19}
+\contentsline {section}{\numberline {3.2}Defining tutorials}{25}
+\contentsline {section}{\numberline {3.3}Basis for selecting applicable video games}{26}
+\contentsline {chapter}{\numberline {4}Studied games}{28}
+\contentsline {section}{\numberline {4.1}\textit {Dark Souls 2}}{30}
+\contentsline {paragraph}{Developer \& year: FromSoftware, 2014 \\ Genre: Action / RPG \\ Separate tutorial: No \\}{30}
 \contentsline {paragraph}{Takeaways:}{31}
-\contentsline {subsection}{\numberline {4.1.5}\textit {Quake Live}}{32}
-\contentsline {paragraph}{Developer \& year: id Software, 2010 \\ Genre: FPS \\ Separate tutorial: Yes \\}{32}
+\contentsline {section}{\numberline {4.2}\textit {Ori and the Blind Forest}}{31}
+\contentsline {paragraph}{Developer \& year: Moon Studios, 2015 \\ Genre: 2D Platformer \\ Separate tutorial: No \\}{31}
 \contentsline {paragraph}{Takeaways:}{32}
-\contentsline {subsection}{\numberline {4.1.6}\textit {Rocket League}}{33}
-\contentsline {paragraph}{Developer \& year: Psyonix, 2015 \\ Genre: Sports / Soccer / Racing \\ Separate tutorial: Yes \\}{33}
-\contentsline {paragraph}{Takeaways:}{33}
-\contentsline {subsection}{\numberline {4.1.7}\textit {Guild Gear Xrd Revelator}}{33}
-\contentsline {paragraph}{Developer \& year: Arc Systems Works, 2016 \\ Genre: Fighting \\ Separate tutorial: Yes \\}{33}
+\contentsline {section}{\numberline {4.3}\textit {Heroes of the Storm}}{32}
+\contentsline {paragraph}{Developer \& year: Blizzard Entertainment, 2015 \\ Genre: MOBA (Multiplayer online battle arena) \\ Separate tutorial: Yes \\}{32}
+\contentsline {paragraph}{Takeaways:}{34}
+\contentsline {section}{\numberline {4.4}\textit {Psychonauts}}{34}
+\contentsline {paragraph}{Developer \& year: Double Fine Productions, 2005 \\ Genre: 3D Platformer / Action-adventure \\ Separate tutorial: No \\}{34}
 \contentsline {paragraph}{Takeaways:}{35}
-\contentsline {subsection}{\numberline {4.1.8}\textit {Quake Champions }(beta)}{35}
-\contentsline {paragraph}{Developer \& year: id Software, 2017 \\ Genre: FPS \\ Separate tutorial: Yes \\}{35}
-\contentsline {paragraph}{Takeaways:}{35}
-\contentsline {subsection}{\numberline {4.1.9}\textit {Dead Cells } (early access)}{36}
-\contentsline {paragraph}{Developer \& year: Motion Twin, 2017 \\ Genre: 2D Platformer / Rogue-lite \\ Separate tutorial: No \\}{36}
+\contentsline {section}{\numberline {4.5}\textit {Quake Live}}{35}
+\contentsline {paragraph}{Developer \& year: id Software, 2010 \\ Genre: FPS \\ Separate tutorial: Yes \\}{35}
 \contentsline {paragraph}{Takeaways:}{36}
-\contentsline {subsection}{\numberline {4.1.10}\textit {The Banner Saga}}{36}
-\contentsline {paragraph}{Developer \& year: Stoic, 2014 \\ Genre: Turn-based strategy / RPG \\ Separate tutorial: No \\}{36}
-\contentsline {paragraph}{Takeaways:}{37}
-\contentsline {subsection}{\numberline {4.1.11}\textit {Child of Light}}{37}
-\contentsline {paragraph}{Developer \& year: Ubisoft Montreal, 2014 \\ Genre: 2D Platformer / Turn-based combat \\ Separate tutorial: No \\}{37}
+\contentsline {section}{\numberline {4.6}\textit {Rocket League}}{36}
+\contentsline {paragraph}{Developer \& year: Psyonix, 2015 \\ Genre: Sports / Soccer / Racing \\ Separate tutorial: Yes \\}{36}
+\contentsline {paragraph}{Takeaways:}{36}
+\contentsline {section}{\numberline {4.7}\textit {Guild Gear Xrd Revelator}}{36}
+\contentsline {paragraph}{Developer \& year: Arc Systems Works, 2016 \\ Genre: Fighting \\ Separate tutorial: Yes \\}{37}
 \contentsline {paragraph}{Takeaways:}{38}
-\contentsline {subsection}{\numberline {4.1.12}\textit {SWAT 4}}{38}
-\contentsline {paragraph}{Developer \& year: Irrational Games, 2005 \\ Genre: Tactical shooter / FPS \\ Separate tutorial: Yes \\}{38}
-\contentsline {paragraph}{Takeaways:}{38}
-\contentsline {subsection}{\numberline {4.1.13}\textit {This War of Mine}}{38}
-\contentsline {paragraph}{Developer \& year: 11 bit studios, 2014 \\ Genre: 2D / Point \& Click \\ Separate tutorial: No \\}{38}
+\contentsline {section}{\numberline {4.8}\textit {Quake Champions }(beta)}{38}
+\contentsline {paragraph}{Developer \& year: id Software, 2017 \\ Genre: FPS \\ Separate tutorial: Yes \\}{38}
 \contentsline {paragraph}{Takeaways:}{39}
-\contentsline {subsection}{\numberline {4.1.14}\textit {Hitman}}{39}
-\contentsline {paragraph}{Developer \& year: IO Interactive, 2016 \\ Genre: Action / Stealth \\ Separate tutorial: Yes \\}{39}
+\contentsline {section}{\numberline {4.9}\textit {Dead Cells } (early access)}{39}
+\contentsline {paragraph}{Developer \& year: Motion Twin, 2017 \\ Genre: 2D Platformer / Rogue-lite \\ Separate tutorial: No \\}{39}
+\contentsline {paragraph}{Takeaways:}{39}
+\contentsline {section}{\numberline {4.10}\textit {The Banner Saga}}{40}
+\contentsline {paragraph}{Developer \& year: Stoic, 2014 \\ Genre: Turn-based strategy / RPG \\ Separate tutorial: No \\}{40}
 \contentsline {paragraph}{Takeaways:}{40}
-\contentsline {subsection}{\numberline {4.1.15}\textit {Binary Domain}}{40}
-\contentsline {paragraph}{Developer \& year: Sega, 2012 \\ Genre: Third-person shooter \\ Separate tutorial: No \\}{40}
-\contentsline {paragraph}{Takeaways:}{40}
-\contentsline {subsection}{\numberline {4.1.16}\textit {Minecraft: Pocket Edition } (Android)}{40}
-\contentsline {paragraph}{Developer \& year: Mojang, 2016 \\ Genre: Sandbox / Survial \\ Separate tutorial: No \\}{40}
+\contentsline {section}{\numberline {4.11}\textit {Child of Light}}{41}
+\contentsline {paragraph}{Developer \& year: Ubisoft Montreal, 2014 \\ Genre: 2D Platformer / Turn-based combat \\ Separate tutorial: No \\}{41}
 \contentsline {paragraph}{Takeaways:}{41}
-\contentsline {subsection}{\numberline {4.1.17}\textit {Monument Valley } (Android)}{41}
-\contentsline {paragraph}{Developer \& year: Ustwo Games, 2014 \\ Genre: Puzzle \\ Separate tutorial: No \\}{41}
-\contentsline {paragraph}{Takeaways:}{41}
-\contentsline {subsection}{\numberline {4.1.18}\textit {New Star Soccer } (Android)}{41}
-\contentsline {paragraph}{Developer \& year: New Star Games, 2012 \\ Genre: Sports \\ Separate tutorial: No \\}{41}
+\contentsline {section}{\numberline {4.12}\textit {SWAT 4}}{41}
+\contentsline {paragraph}{Developer \& year: Irrational Games, 2005 \\ Genre: Tactical shooter / FPS \\ Separate tutorial: Yes \\}{41}
 \contentsline {paragraph}{Takeaways:}{42}
-\contentsline {subsection}{\numberline {4.1.19}\textit {Insurgency}}{42}
-\contentsline {paragraph}{Developer \& year: New World Interactive, 2014 \\ Genre: Tactical shooter / FPS \\ Separate tutorial: Yes \\}{42}
+\contentsline {section}{\numberline {4.13}\textit {This War of Mine}}{42}
+\contentsline {paragraph}{Developer \& year: 11 bit studios, 2014 \\ Genre: 2D / Point \& Click \\ Separate tutorial: No \\}{42}
 \contentsline {paragraph}{Takeaways:}{42}
-\contentsline {subsection}{\numberline {4.1.20}\textit {Hammerwatch}}{42}
-\contentsline {paragraph}{Developer \& year: Crackshell, 2013 \\ Genre: Hack and slash / Dungeon crawler \\ Separate tutorial: No \\}{42}
+\contentsline {section}{\numberline {4.14}\textit {Hitman}}{42}
+\contentsline {paragraph}{Developer \& year: IO Interactive, 2016 \\ Genre: Action / Stealth \\ Separate tutorial: Yes \\}{43}
 \contentsline {paragraph}{Takeaways:}{43}
-\contentsline {chapter}{\numberline {5}Analyzing expert review results}{44}
-\contentsline {section}{\numberline {5.1}Tutorials and existing heuristics}{46}
-\contentsline {paragraph}{1. Easy to learn, hard to master.}{46}
-\contentsline {paragraph}{2. The goals are clear. }{46}
-\contentsline {paragraph}{3. The skills needed to attain goals are taught early enough to play or use later, or right before the new skill is needed.}{46}
-\contentsline {paragraph}{4. The first ten minutes of play and player actions are painfully obvious and should result in immediate and positive feedback for all types of players. }{46}
-\contentsline {paragraph}{5. Player does not need to read the manual or documentation to play.}{47}
-\contentsline {paragraph}{6. Player does not need to access the tutorial in order to play.}{47}
-\contentsline {paragraph}{7. Status score indicators are seamless, obvious, available and do not interfere with game play.}{47}
-\contentsline {paragraph}{8. The game provides feedback and reacts in a consistent, immediate, challenging and exciting way to the player's actions.}{47}
-\contentsline {paragraph}{9. Provide appropriate audio/visual/visceral feedback (music, sound effects, controller vibration.}{47}
-\contentsline {paragraph}{10. The player is given controls that are basic enough to be learned quickly, yet expendable for advanced options for advanced players.}{48}
-\contentsline {paragraph}{11. Player interruption is supported, so that players can easily turn the game on and off and be able to save the game in different states.}{48}
-\contentsline {paragraph}{12. Upon turning on the game, the player has enough information to begin play.}{48}
-\contentsline {paragraph}{13. Players should be given context-sensitive help while playing so that they are not stuck and need to rely on a manual for help.}{48}
-\contentsline {paragraph}{14. All levels of players are able to play and get involved quickly and easily with tutorials and/or progressive or adjustable difficulty levels. }{48}
-\contentsline {paragraph}{15. Get the player involved quickly and easily.}{49}
-\contentsline {paragraph}{16. The game should give hints, but not too many.}{49}
-\contentsline {paragraph}{17. Allow users to skip non-playable and frequently repeated content.}{49}
-\contentsline {paragraph}{18. Provide instructions, training and help.}{49}
-\contentsline {section}{\numberline {5.2}Heuristics for tutorials}{49}
-\contentsline {paragraph}{1. The tutorial should reflect the intended gameplay experience.}{50}
-\contentsline {paragraph}{2. The tutorial should reflect the pacing of the gameplay and not introduce mechanics before they are accessible in-game.}{51}
-\contentsline {paragraph}{3. There can be multiple tutorials for different aspects of the gameplay.}{51}
-\contentsline {paragraph}{4. Controls should be taught interactively when possible.}{51}
-\contentsline {paragraph}{5. Learning through example is a possibility.}{51}
-\contentsline {paragraph}{6. Using a training opponent before the actual game is a possibility.}{52}
-\contentsline {paragraph}{7. Sometimes it is good to limit the possible controls to the ones being currently taught and pace the tutorial accordingly.}{52}
-\contentsline {paragraph}{8. Teach applications and combinations of the basic controls that go beyond the basic control scheme.}{52}
-\contentsline {paragraph}{9. Using a separate video to describe the usual game elements and dynamics is a possibility.}{52}
-\contentsline {paragraph}{10. A short tutorial for a complex game can still be good.}{53}
-\contentsline {paragraph}{11. Use different visual and audible ways to present information and color code keywords.}{53}
-\contentsline {paragraph}{12. Have an option to turn off in-game tutorials.}{53}
-\contentsline {paragraph}{13. Real-world scenarios can be copied to mimic training sessions in applicable genres.}{53}
-\contentsline {paragraph}{14. Consider not showing all possible information depending on the setting, lack of knowledge can serve as a game dynamic.}{54}
-\contentsline {paragraph}{15. Completing a whole mission step by step in an applicable genre can be helpful.}{54}
-\contentsline {paragraph}{16. Use context-sensitive information throughout the game. }{54}
-\contentsline {paragraph}{17. Do not underestimate the importance of a tutorial even in a simple game.}{54}
-\contentsline {paragraph}{18. Present simple things in a clear and noticeable manner.}{54}
-\contentsline {paragraph}{19. Consider a separate practise or free mode that can be used at the player's own pace.}{55}
-\contentsline {paragraph}{20. Realism is not an excuse to not have additional visual elements in a tutorial setting.}{55}
-\contentsline {paragraph}{21. The tutorial can also be about what the character can or should do, not just how.}{55}
-\contentsline {paragraph}{22. The tutorial should not be made unnecessarily difficult.}{55}
-\contentsline {paragraph}{23. The goals of the tutorial should be clear at all times.}{55}
-\contentsline {paragraph}{24. The tutorial should begin with the most common interaction in the game.}{55}
-\contentsline {paragraph}{25. The player should be able to skip the tutorial but not by accident.}{55}
-\contentsline {paragraph}{26. The tutorial should give feedback of the player's required actions with visual and audible elements, and controller vibration if possible.}{55}
-\contentsline {paragraph}{27. The player should be able to save the game during the tutorial.}{55}
-\contentsline {section}{\numberline {5.3}How to use the heuristics}{55}
-\contentsline {chapter}{\numberline {6}Conclusion}{57}
-\contentsline {chapter}{\numberline {A}Relevant heuristics related to tutorials in the bibliography}{66}
-\contentsline {chapter}{\numberline {B}Final heuristics identified for tutorials}{68}
+\contentsline {section}{\numberline {4.15}\textit {Binary Domain}}{43}
+\contentsline {paragraph}{Developer \& year: Sega, 2012 \\ Genre: Third-person shooter \\ Separate tutorial: No \\}{43}
+\contentsline {paragraph}{Takeaways:}{44}
+\contentsline {section}{\numberline {4.16}\textit {Minecraft: Pocket Edition } (Android)}{44}
+\contentsline {paragraph}{Developer \& year: Mojang, 2016 \\ Genre: Sandbox / Survial \\ Separate tutorial: No \\}{44}
+\contentsline {paragraph}{Takeaways:}{44}
+\contentsline {section}{\numberline {4.17}\textit {Monument Valley } (Android)}{44}
+\contentsline {paragraph}{Developer \& year: Ustwo Games, 2014 \\ Genre: Puzzle \\ Separate tutorial: No \\}{44}
+\contentsline {paragraph}{Takeaways:}{45}
+\contentsline {section}{\numberline {4.18}\textit {New Star Soccer } (Android)}{45}
+\contentsline {paragraph}{Developer \& year: New Star Games, 2012 \\ Genre: Sports \\ Separate tutorial: No \\}{45}
+\contentsline {paragraph}{Takeaways:}{45}
+\contentsline {section}{\numberline {4.19}\textit {Insurgency}}{45}
+\contentsline {paragraph}{Developer \& year: New World Interactive, 2014 \\ Genre: Tactical shooter / FPS \\ Separate tutorial: Yes \\}{46}
+\contentsline {paragraph}{Takeaways:}{46}
+\contentsline {section}{\numberline {4.20}\textit {Hammerwatch}}{46}
+\contentsline {paragraph}{Developer \& year: Crackshell, 2013 \\ Genre: Hack and slash / Dungeon crawler \\ Separate tutorial: No \\}{46}
+\contentsline {paragraph}{Takeaways:}{46}
+\contentsline {chapter}{\numberline {5}Analyzing expert review results}{47}
+\contentsline {section}{\numberline {5.1}Tutorials and existing heuristics}{49}
+\contentsline {paragraph}{1. Easy to learn, hard to master.}{49}
+\contentsline {paragraph}{2. The goals are clear. }{49}
+\contentsline {paragraph}{3. The skills needed to attain goals are taught early enough to play or use later, or right before the new skill is needed.}{49}
+\contentsline {paragraph}{4. The first ten minutes of play and player actions are painfully obvious and should result in immediate and positive feedback for all types of players. }{49}
+\contentsline {paragraph}{5. Player does not need to read the manual or documentation to play.}{50}
+\contentsline {paragraph}{6. Player does not need to access the tutorial in order to play.}{50}
+\contentsline {paragraph}{7. Status score indicators are seamless, obvious, available and do not interfere with game play.}{50}
+\contentsline {paragraph}{8. The game provides feedback and reacts in a consistent, immediate, challenging and exciting way to the player's actions.}{50}
+\contentsline {paragraph}{9. Provide appropriate audio/visual/visceral feedback (music, sound effects, controller vibration.}{50}
+\contentsline {paragraph}{10. The player is given controls that are basic enough to be learned quickly, yet expendable for advanced options for advanced players.}{51}
+\contentsline {paragraph}{11. Player interruption is supported, so that players can easily turn the game on and off and be able to save the game in different states.}{51}
+\contentsline {paragraph}{12. Upon turning on the game, the player has enough information to begin play.}{51}
+\contentsline {paragraph}{13. Players should be given context-sensitive help while playing so that they are not stuck and need to rely on a manual for help.}{51}
+\contentsline {paragraph}{14. All levels of players are able to play and get involved quickly and easily with tutorials and/or progressive or adjustable difficulty levels. }{51}
+\contentsline {paragraph}{15. Get the player involved quickly and easily.}{52}
+\contentsline {paragraph}{16. The game should give hints, but not too many.}{52}
+\contentsline {paragraph}{17. Allow users to skip non-playable and frequently repeated content.}{52}
+\contentsline {paragraph}{18. Provide instructions, training and help.}{52}
+\contentsline {section}{\numberline {5.2}Heuristics for tutorials}{52}
+\contentsline {paragraph}{1. The tutorial should reflect the intended gameplay experience.}{53}
+\contentsline {paragraph}{2. The tutorial should reflect the pacing of the gameplay and not introduce mechanics before they are accessible in-game.}{54}
+\contentsline {paragraph}{3. There can be multiple tutorials for different aspects of the gameplay.}{54}
+\contentsline {paragraph}{4. Controls should be taught interactively when possible.}{54}
+\contentsline {paragraph}{5. Learning through example is a possibility.}{54}
+\contentsline {paragraph}{6. Using a training opponent before the actual game is a possibility.}{55}
+\contentsline {paragraph}{7. Sometimes it is good to limit the possible controls to the ones being currently taught and pace the tutorial accordingly.}{55}
+\contentsline {paragraph}{8. Teach applications and combinations of the basic controls that go beyond the basic control scheme.}{55}
+\contentsline {paragraph}{9. Using a separate video to describe the usual game elements and dynamics is a possibility.}{55}
+\contentsline {paragraph}{10. A short tutorial for a complex game can still be good.}{56}
+\contentsline {paragraph}{11. Use different visual and audible ways to present information and color code keywords.}{56}
+\contentsline {paragraph}{12. Have an option to turn off in-game tutorials.}{56}
+\contentsline {paragraph}{13. Real-world scenarios can be copied to mimic training sessions in applicable genres.}{56}
+\contentsline {paragraph}{14. Consider not showing all possible information depending on the setting, lack of knowledge can serve as a game dynamic.}{57}
+\contentsline {paragraph}{15. Completing a whole mission step by step in an applicable genre can be helpful.}{57}
+\contentsline {paragraph}{16. Use context-sensitive information throughout the game.}{57}
+\contentsline {paragraph}{17. Do not underestimate the importance of a tutorial even in a simple game.}{58}
+\contentsline {paragraph}{18. Present simple things in a clear and noticeable manner.}{58}
+\contentsline {paragraph}{19. Consider a separate practise or free mode that can be used at the player's own pace.}{58}
+\contentsline {paragraph}{20. Realism is not an excuse to not have additional visual elements in a tutorial setting.}{59}
+\contentsline {paragraph}{21. The tutorial can also be about what the character can or should do, not just how.}{59}
+\contentsline {paragraph}{22. The tutorial should not be made unnecessarily difficult.}{59}
+\contentsline {paragraph}{23. The goals of the tutorial should be clear at all times.}{59}
+\contentsline {paragraph}{24. The tutorial should begin with the most common interaction in the game.}{60}
+\contentsline {paragraph}{25. The player should be able to skip the tutorial but not by accident.}{60}
+\contentsline {paragraph}{26. The tutorial should give feedback of the player's required actions with visual and audible elements, and controller vibration if possible.}{60}
+\contentsline {paragraph}{27. The player should be able to save the game during the tutorial.}{60}
+\contentsline {section}{\numberline {5.3}How to use the heuristics}{61}
+\contentsline {chapter}{\numberline {6}Conclusion}{63}
+\contentsline {chapter}{\numberline {A}Final heuristics identified for tutorials}{74}

@@ -34,8 +34,36 @@ ISO/IEC 9126-1 says: usability is related to the specified conditions. Condition
 Quality in use: the capability of the software product to enable specified users to achieve specified gaols with effectiveness, productivity, safety and satisfaction in specified contexts of use.
 Even with video game tutorials, we can return to these basic definitions of usability and realize that they would be an important part to take into account during the development process and tutorial design.
 Is it enough if tutorials are efficient, do they also have to be fun? Is fun the task of the core game, not the tutorial, or both?
-Games have outcomes and are completed, they are not used indefinitely like productivity software. But also, games can still have many options, and it is not necessarily a good idea to teach everything first, but rather do it right before the player takes a certain action.
+Games have outcomes and are completed, they are not used indefinitely like productivity software. But also, games can still have many options for which actions to take at any given time, and it is not necessarily a good idea to teach everything first, but rather do it right before the player takes a certain action.
 Finding what is meaningful for tutorials from existing heuristics for games.
 A tutorial is the general way the game teaches how it is played, not a separate section in the game (explicit and implicit tutorials).
 
+2017-10-12
+Last suggested articles
 
+2017-10-21
+Huomioi GAP (palaute-pdf s. 19)
+
+Game approachability vs. usability (GAP)
+
+TUTORIALS FROM AN INDUSTRY PERSPECTIVE: how to get players hooked to premium games and thus also spending money at a later stage. (gamasutra/jarvinen) "does the ui beg to continue clicking" also there's talk about incentives
+
+DIFFERENT LEARNER TYPES (gamasutra/graner). this can go along with the heuristics as grounds for using different types of interactive cues (colors, sounds, haptic feedback etc.)
+
+explorative acquisition: try everything and take risks
+
+modeling acquisition: know how something works before trying. requires repeating of the action before moving forward. also possibly learning the interface first before learning the rest of the game (can contradict with immersion)
+
+-> can be combined by making the tutorial parts skippable for the explorative player.
+
+DESIGNER'S NOTEBOOK: eight ways to make a bad tutorial (gamasutra/adams)
+many of these are found in our heuristics (opposites)
+
+MULTI-SYSTEM GAMES (bycer/gamasutra) basic stuff already covered
+
+THE ART OF THE TUTORIAL: when to hold a player's hand, when to let it go (gamasutra/wawro)
+"who do you build tutorials for", could fit in the conclusion
+also a lot of stuff already covered
+
+TUTORIAL DESIGN AND THE CUPHEAD DEMO ARGUMENT (gamasutra/bycer)
+again, what is the game's audience? even in a difficult game, teaching mechanics in order of complexity---and separately from each other---can be a good thing, even if the assumed audience would be the so-called hardcore gamers. in this case, even showing an example first and then letting the player try it out themselves. the controls can already be difficult enough, but making the player also figure out how to utilize the controls can be frustrating. the problem is in what kind of order things are presented and if they are even presented at the correct time, that is, when the player actually needs them for the first time.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.3)  5 OCT 2017 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.3)  2 NOV 2017 20:36
 entering extended mode
 **./yli-kovero_tuomas_pro_gradu.tex
 (yli-kovero_tuomas_pro_gradu.tex
@@ -603,29 +603,34 @@ File: img/soihtu.png Graphic file (type png)
 Package pdftex.def Info: img/soihtu.png used on input line 22.
 (pdftex.def)             Requested size: 113.81102pt x 135.79263pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--55
+Underfull \hbox (badness 10000) in paragraph at lines 53--59
 
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 49--55
+Underfull \hbox (badness 2564) in paragraph at lines 53--59
 \OT1/cmr/m/n/12 YLI-KOVERO, TUO-MAS: Heuris-tics for eval-u-at-ing the us-abil-
 ity of video
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--62
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--67
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 69.
+(Font)              <12> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 69.
+(Font)              <8> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 69.
+(Font)              <6> on input line 74.
 
-Overfull \hbox (17.6248pt too wide) in paragraph at lines 47--70
+Overfull \hbox (17.6248pt too wide) in paragraph at lines 51--75
 []$[]$ 
  []
 
@@ -633,29 +638,23 @@ Overfull \hbox (17.6248pt too wide) in paragraph at lines 47--70
 
 {C:/Users/Tuomas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/soih
 tu.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 72--78
+Underfull \hbox (badness 10000) in paragraph at lines 77--83
 
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 72--78
+Underfull \hbox (badness 1342) in paragraph at lines 77--83
 \OT1/cmr/m/n/12 YLI-KOVERO, TUO-MAS: Heuris-ti-ikkoja videopeli-tu-to-ri-aalien
  kaytettavyyden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--85
+Underfull \hbox (badness 10000) in paragraph at lines 84--90
 
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 79--85
-\OT1/cmr/m/n/12 Videopelien tu-to-ri-aalien kayttevyys on merkittavassa roo
-lissa pelien laadun
- []
-
-
-Overfull \hbox (17.6248pt too wide) in paragraph at lines 71--93
+Overfull \hbox (17.6248pt too wide) in paragraph at lines 76--98
 []$[]$ 
  []
 
@@ -675,156 +674,151 @@ Chapter 1.
 
 
 
-]) [2]
+]) [2] [3]
 \openout2 = `2definitions.aux'.
 
  (2definitions.tex
 Chapter 2.
-[3
+[4
 
 
 
-] [4]
+] [5]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 15.
  (C:\MiKTeX\tex\latex\base\omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
- [5] [6]
-<img/hci_standards.png, id=43, 548.0475pt x 140.525pt>
-File: img/hci_standards.png Graphic file (type png)
+ [6] [7]
+<img/drawing.pdf, id=46, 400.12042pt x 90.02382pt>
+File: img/drawing.pdf Graphic file (type pdf)
+ <use img/drawing.pdf>
+Package pdftex.def Info: img/drawing.pdf used on input line 55.
+(pdftex.def)             Requested size: 426.79135pt x 96.03056pt.
 
-<use img/hci_standards.png>
-Package pdftex.def Info: img/hci_standards.png used on input line 55.
-(pdftex.def)             Requested size: 426.79135pt x 109.43536pt.
- [7 <./img/hci_standards.png (PNG copy)>] [8]
-[9] [10] [11] [12] [13] [14]
-
-LaTeX Warning: Citation `Lee' on page 15 undefined on input line 141.
-
-
-LaTeX Warning: Citation `Smith2017' on page 15 undefined on input line 141.
-
-) [15]
+[8 <./img/drawing.pdf>] [9] [10] [11] [12] [13] [14] [15]) [16] [17]
 \openout2 = `3methods.aux'.
 
- (3methods.tex
+
+(3methods.tex
 Chapter 3.
-[16
+[18
 
 
 
-] [17]
+] [19]
 Overfull \hbox (5.14305pt too wide) in paragraph at lines 28--29
 []\OT1/cmr/m/n/12 Mechanics/controller ac-tions have con-sis-tently mapped and 
 learn-able re-sponses. 
  []
 
-[18] [19] [20] [21] [22]) [23] [24]
+[20] [21] [22] [23] [24] [25]) [26] [27]
 \openout2 = `games.aux'.
 
  (games.tex
 Chapter 4.
-[25
+[28
 
 
 
-] [26] [27] [28] [29] [30] [31] [32]
+] [29] [30] [31] [32] [33] [34] [35]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 105.
+(Font)              <7> on input line 102.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 105.
- [33] [34]
-Overfull \hbox (1.37848pt too wide) in paragraph at lines 158--159
+(Font)              <5> on input line 102.
+ [36] [37] [38]
+Overfull \hbox (1.37848pt too wide) in paragraph at lines 154--155
  \OT1/cmr/bx/n/12 Take-aways:[] \OT1/cmr/m/n/12 Con-sider us-ing a sep-a-rate v
 ideo that can be avail-able on-line to demon-
  []
 
-[35] [36] [37] [38] [39] [40] [41] [42]) [43]
+[39] [40] [41] [42] [43] [44] [45]) [46]
 \openout2 = `analysis.aux'.
 
  (analysis.tex
 Chapter 5.
-
-LaTeX Warning: Citation `Pagulayan2003' on page 44 undefined on input line 3.
-
-[44
+[47
 
 
 
-] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55]) [56]
+] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61])
+[62]
 \openout2 = `5conclusion.aux'.
 
-
-(5conclusion.tex
+ (5conclusion.tex
 Chapter 6.
-[57
+[63
 
 
 
-] [58]) [59] [60] (yli-kovero_tuomas_pro_gradu.bbl
-Underfull \hbox (badness 1314) in paragraph at lines 22--28
+] [64]) [65] [66] (yli-kovero_tuomas_pro_gradu.bbl
+Underfull \hbox (badness 1314) in paragraph at lines 26--32
 []\OT1/cmr/m/n/12 Bauckhage, C., Ker-st-ing, K., Sifa, R., Thu-rau, C.,
  []
 
-[61
+[67
 
 
-] [62] [63]
-Underfull \hbox (badness 5726) in paragraph at lines 167--169
+] [68] [69] [70]
+Underfull \hbox (badness 5726) in paragraph at lines 197--199
 []\OT1/cmr/m/n/12 Merriam-Webster (2017a).  https://www.merriam-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--174
+Underfull \hbox (badness 10000) in paragraph at lines 201--204
 []\OT1/cmr/m/n/12 Merriam-Webster (2017b).  Merriam-Webster.
  []
 
-[64]) [65]
+[71]
+Underfull \hbox (badness 2269) in paragraph at lines 268--271
+[]\OT1/cmr/m/n/12 Ray, S. G. (2010).  Tu-to-ri-als: Learn-ing to Play. Gama-su-
+tra
+ []
+
+
+Overfull \hbox (5.17331pt too wide) in paragraph at lines 268--271
+\OT1/cmr/m/n/12 https://www.gamasutra.com/view/feature/134531/tutorials[]learni
+ng[]to[]play.php. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--290
+[]\OT1/cmr/m/n/12 Smith, G. (2017).  We need a rev-o-lu-tion in tu-to-ri-als
+ []
+
+[72]) [73]
 \openout2 = `appendix.aux'.
 
  (appendix.tex
 Appendix A.
 
-Underfull \vbox (badness 10000) detected at line 25
+Underfull \vbox (badness 10000) detected at line 34
  []
 
-[66
+[74
 
 
-] [67]
-Appendix B.
-
-Underfull \vbox (badness 10000) detected at line 60
- []
-
-[68
-
-]) [69] (yli-kovero_tuomas_pro_gradu.aux (1introduction.aux)
+]) [75] (yli-kovero_tuomas_pro_gradu.aux (1introduction.aux)
 (2definitions.aux) (3methods.aux) (games.aux) (analysis.aux) (5conclusion.aux)
-(appendix.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
+(appendix.aux)) ) 
 Here is how much of TeX's memory you used:
- 3721 strings out of 493333
- 49493 string characters out of 3146976
- 155459 words of memory out of 3000000
- 7125 multiletter control sequences out of 15000+200000
+ 3728 strings out of 493333
+ 49543 string characters out of 3146976
+ 155631 words of memory out of 3000000
+ 7132 multiletter control sequences out of 15000+200000
  9206 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,25p,3177b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbxti10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.
-pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr7.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-<C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmti12.pfb>
-Output written on yli-kovero_tuomas_pro_gradu.pdf (74 pages, 300512 bytes).
+ 39i,8n,25p,2399b,334s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on yli-kovero_tuomas_pro_gradu.pdf (80 pages, 305984 bytes).
 PDF statistics:
- 277 PDF objects out of 1000 (max. 8388607)
+ 304 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

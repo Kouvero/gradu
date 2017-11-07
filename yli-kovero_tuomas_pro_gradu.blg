@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: yli-kovero_tuomas_pro_gradu.aux
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: yli-kovero_tuomas_pro_gradu.aux
 A level-1 auxiliary file: 1introduction.aux
 A level-1 auxiliary file: 2definitions.aux
 A level-1 auxiliary file: 3methods.aux
@@ -8,18 +10,55 @@ A level-1 auxiliary file: 5conclusion.aux
 The style file: apalike.bst
 A level-1 auxiliary file: appendix.aux
 Database file #1: library.bib
-Warning--I didn't find a database entry for "Lee"
-Warning--I didn't find a database entry for "Smith2017"
-Warning--I didn't find a database entry for "Pagulayan2003"
-Warning--there's a number but no volume in Almeida2010a
-Warning--there's a number but no volume in Andersen2012
-Warning--empty year in Bradley
+Warning--empty publisher in Desurvire2015
 Warning--empty publisher in Isbister2008
 Warning--can't use both volume and number fields in Nielsen1993
 Warning--empty publisher in Nielsen1993
 Warning--there's a number but no volume in Nielsen1990
+Warning--empty publisher in Pagulayan2003
 Warning--empty publisher in Robbins2008
 Warning--empty institution in Schaffer2007
 Warning--can't use both volume and number fields in Tarkkanen2013
 Warning--empty publisher in Tarkkanen2013
-(There were 14 warnings)
+You've used 54 entries,
+            1935 wiz_defined-function locations,
+            801 strings with 12987 characters,
+and the built_in function-call counts, 20465 in all, are:
+= -- 2050
+> -- 762
+< -- 52
++ -- 252
+- -- 250
+* -- 1575
+:= -- 3509
+add.period$ -- 142
+call.type$ -- 54
+change.case$ -- 391
+chr.to.int$ -- 52
+cite$ -- 64
+duplicate$ -- 857
+empty$ -- 1388
+format.name$ -- 314
+if$ -- 4073
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 43
+newline$ -- 253
+num.names$ -- 162
+pop$ -- 367
+preamble$ -- 1
+purify$ -- 395
+quote$ -- 0
+skip$ -- 726
+stack$ -- 0
+substring$ -- 1370
+swap$ -- 195
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 312
+warning$ -- 10
+while$ -- 178
+width$ -- 0
+write$ -- 643
+(There were 10 warnings)

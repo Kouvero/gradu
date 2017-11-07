@@ -1,5 +1,10 @@
 \begin{thebibliography}{}
 
+\bibitem[Adams, 2011]{Adams2011}
+Adams, E. (2011).
+\newblock {The Designer's Notebook: Eight Ways To Make a Bad Tutorial.
+  Gamasutra http://ubm.io/2A8Y3IP 2017-11-1}.
+
 \bibitem[Adams, 2013]{Adams2013}
 Adams, E. (2013).
 \newblock {\em {Fundamentals of Game Design}}.
@@ -9,14 +14,13 @@ Adams, E. (2013).
 Almeida, S., Mealha, {\'{O}}., and Veloso, A. (2010).
 \newblock {Heuristic Evaluation of 'FarmVille'}.
 \newblock {\em Videojogos 2011 - 3rd Annual Conference in the Science and Art
-  of Video Games}, (1990):21--30.
+  of Video Games}.
 
 \bibitem[Andersen et~al., 2012]{Andersen2012}
 Andersen, E., O'Rourke, E., Liu, Y.-E., Snider, R., Lowdermilk, J., Truong, D.,
   Cooper, S., and Popovic, Z. (2012).
 \newblock {The impact of tutorials on games of varying complexity}.
-\newblock {\em SIGCHI Conference on Human Factors in Computing Systems},
-  (Pajitnov 1984):59--68.
+\newblock {\em SIGCHI Conference on Human Factors in Computing Systems}.
 
 \bibitem[Bauckhage et~al., 2012]{Bauckhage2012}
 Bauckhage, C., Kersting, K., Sifa, R., Thurau, C., Drachen, A., and Canossa, A.
@@ -38,9 +42,10 @@ Bevan, N. (2006).
 \newblock {International Standards for HCI}.
 \newblock {\em Encyclopedia of Human Computer Interaction}, 55(May):1--15.
 
-\bibitem[Bradley, ]{Bradley}
-Bradley, A.
-\newblock 7 strategy games that every developer should study.
+\bibitem[Bradley, 2016]{Bradley}
+Bradley, A. (2016).
+\newblock {7 strategy games that every developer should study
+  http://ubm.io/2gwmXN9 Gamasutra 2017-9-1}.
 
 \bibitem[Brignull, 2013]{Brignull2013}
 Brignull, H. (2013).
@@ -51,7 +56,12 @@ Brignull, H. (2013).
 \bibitem[Bycer, 2016]{Bycer2016}
 Bycer, J. (2016).
 \newblock {How to Improve Education via Game Tutorials http://ubm.io/2w7QTpj
-  2017-8-18 Gamasutra 2017-8-18}.
+  Gamasutra 2017-8-18}.
+
+\bibitem[Bycer, 2017]{Bycer2017}
+Bycer, J. (2017).
+\newblock {Tutorial Design and the Cuphead Demo Argument. Gamasutra
+  http://ubm.io/2lEKYnt 2017-11-1}.
 
 \bibitem[Carter et~al., 2014]{Carter2014}
 Carter, M., Downs, J., Nansen, B., Harrop, M., and Gibbs, M. (2014).
@@ -98,6 +108,12 @@ Desurvire, H. and Wiberg, C. (2009).
   Lecture Notes in Artificial Intelligence and Lecture Notes in
   Bioinformatics)}, volume 5621 LNCS, pages 557--566.
 
+\bibitem[Desurvire and Wiberg, 2015]{Desurvire2015}
+Desurvire, H. and Wiberg, C. (2015).
+\newblock {User Experience Design for Inexperienced Gamers: GAP – Game
+  Approachability Principles}.
+\newblock In {\em Game User Experience Evaluation}, pages 131--147.
+
 \bibitem[Dubey et~al., 2012]{Dubey2012}
 Dubey, S., Gulati, A., and Rana, A. (2012).
 \newblock {Integrated Model for Software Usability}.
@@ -111,11 +127,10 @@ Febretti, A. and Garzotto, F. (2009).
   Proceedings}, pages 4063--4068.
 
 \bibitem[Federoff, 2002]{Federoff2002}
-Federoff, M.~a. (2002).
+Federoff, M.~A. (2002).
 \newblock {Heuristics and usability guidelines for the creation and evaluation
   of fun in video games}.
-\newblock {\em FUN in Video Games Thesis University Graduate School of Indiana
-  University Dec}, Master of(December):52.
+\newblock {\em Indiana University, Department of Telecommunications}.
 
 \bibitem[Ferr{\'{e}} et~al., 2001]{Ferre2001}
 Ferr{\'{e}}, X., Juristo, N., Windl, H., and Constantine, L. (2001).
@@ -124,8 +139,7 @@ Ferr{\'{e}}, X., Juristo, N., Windl, H., and Constantine, L. (2001).
 
 \bibitem[Holzinger, 2005]{Holzinger2005}
 Holzinger, A. (2005).
-\newblock {Usability {\{}Engineering{\}} {\{}Methods{\}} for {\{}Software{\}}
-  {\{}Developers{\}}}.
+\newblock {Usability Engineering Methods for Software Developers}.
 \newblock {\em Commun. ACM}, 48(1):71--74.
 
 \bibitem[Isbister and Schaffer, 2008]{Isbister2008}
@@ -135,6 +149,11 @@ Isbister, K. and Schaffer, N. (2008).
 \bibitem[ISO, 1998]{ISO1998}
 ISO (1998).
 \newblock {ISO 9241-11}.
+
+\bibitem[J{\"{a}}rvinen, 2010]{Jarvinen2010}
+J{\"{a}}rvinen, A. (2010).
+\newblock {First Five Minutes: How Tutorials Make or Break Your Social Game.
+  Gamasutra http://ubm.io/2z605vQ 2017-11-1}.
 
 \bibitem[Kahneman et~al., 1982]{Kahneman1982}
 Kahneman, D., Slovic, P., and Tversky, A. (1982).
@@ -151,6 +170,17 @@ Korhonen, H., Paavilainen, J., and Saarenp{\"{a}}{\"{a}}, H. (2009).
 \newblock {Expert review method in game evaluations: Comparison of two
   playability heuristic sets}.
 \newblock {\em MindTrek 2009}, pages 74--81.
+
+\bibitem[Lee, 2014]{Lee}
+Lee, T. (2014).
+\newblock {Game Design Deep Dive: How Rogue Legacy handles tutorials without
+  being boring http://ubm.io/2eqgSh9 Gamasutra 2017-9-1}.
+
+\bibitem[Li et~al., 2012]{Li2012}
+Li, W., Grossman, T., and Fitzmaurice, G. (2012).
+\newblock {GamiCAD: A gamified tutorial system for first time AutoCAD users}.
+\newblock {\em UIST'12 - Proceedings of the 25th Annual ACM Symposium on User
+  Interface Software and Technology}, pages 103--112.
 
 \bibitem[Lipp, 2012]{Lipp2012}
 Lipp, K. (2012).
@@ -171,6 +201,14 @@ Merriam-Webster (2017a).
 Merriam-Webster (2017b).
 \newblock {Merriam-Webster.
   https://www.merriam-webster.com/dictionary/tutorial}.
+
+\bibitem[Moirn et~al., 2016]{Moirn2016}
+Moirn, R., L{\'{e}}ger, P.-M., Senecal, S., Roberge, M.-C., Lefebvre, M., and
+  Fredette, M. (2016).
+\newblock {The effect of game tutorial: A comparison between casual and
+  hardcore gamers}.
+\newblock {\em CHI PLAY 2016 - Proceedings of the Annual Symposium on
+  Computer-Human Interaction in Play Companion}, pages 229--237.
 
 \bibitem[Moss, 2017]{Moss2017}
 Moss, R. (2017).
@@ -197,6 +235,11 @@ Norman, D.~A. (2013).
 \newblock {\em {The Design of Everyday Things}}.
 \newblock Basic books.
 
+\bibitem[Pagulayan et~al., 2003]{Pagulayan2003}
+Pagulayan, R.~J., Keeker, K., Wixon, D., Romero, R.~L., and Fuller, T. (2003).
+\newblock {User-centered design in games}.
+\newblock In {\em Design}, volume~28, pages 883--906.
+
 \bibitem[Peever et~al., 2012]{Peever2012}
 Peever, N., Johnson, D., and Gardner, J. (2012).
 \newblock {Personality {\&} video game genre preferences}.
@@ -221,6 +264,11 @@ Raskin, J. (1994).
 \newblock {Intuitive equals familiar}.
 \newblock {\em Communications of the ACM}, 37(9):17--19.
 
+\bibitem[Ray, 2010]{Ray2010}
+Ray, S.~G. (2010).
+\newblock {Tutorials: Learning to Play. Gamasutra
+  https://www.gamasutra.com/view/feature/134531/tutorials{\_}learning{\_}to{\_}play.php}.
+
 \bibitem[Robbins et~al., 2008]{Robbins2008}
 Robbins, A., Hannab, E., and Lamb, L. (2008).
 \newblock {\em {Learning Vi And Vim Editors 7th Ed - Jul.2008}}.
@@ -230,8 +278,23 @@ Schaffer, N. (2007).
 \newblock {Heuristics for usability in games}.
 \newblock Technical report.
 
+\bibitem[Shane, 2013]{Shane2013}
+Shane, K. (2013).
+\newblock {Clippy Returns for Ribbon Hero 2 in MS Office's Learning Tutorial
+  http://www.gamification.co/2013/08/15/clippy-returns-for-ribbon-hero-2-in-ms-offices-learning-tutorial/}.
+
+\bibitem[Smith, 2017]{Smith2017}
+Smith, G. (2017).
+\newblock {We need a revolution in tutorials http://bit.ly/2wYnP47 Rock, Paper,
+  Shotgun 2017-1-9}.
+
 \bibitem[Tarkkanen et~al., 2013]{Tarkkanen2013}
 Tarkkanen, K., Reijonen, P., T{\'{e}}tard, F., and Harkke, V. (2013).
 \newblock {\em {Back to User-Centered Usability Testing}}, volume 7946.
+
+\bibitem[Wawro, 2015]{Wawro2015}
+Wawro, A. (2015).
+\newblock {The art of the tutorial: When to hold a player's hand, when to let
+  it go. Gamasutra http://ubm.io/2lE1C6O 2017-11-1}.
 
 \end{thebibliography}
