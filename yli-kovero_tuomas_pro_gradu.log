@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.3)  2 NOV 2017 20:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.3)  9 NOV 2017 13:15
 entering extended mode
 **./yli-kovero_tuomas_pro_gradu.tex
 (yli-kovero_tuomas_pro_gradu.tex
@@ -602,63 +602,65 @@ File: img/soihtu.png Graphic file (type png)
  <use img/soihtu.png>
 Package pdftex.def Info: img/soihtu.png used on input line 22.
 (pdftex.def)             Requested size: 113.81102pt x 135.79263pt.
+ [1
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--59
+{C:/Users/Tuomas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/soih
+tu.png>] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 61--67
 
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 53--59
+Underfull \hbox (badness 2564) in paragraph at lines 61--67
 \OT1/cmr/m/n/12 YLI-KOVERO, TUO-MAS: Heuris-tics for eval-u-at-ing the us-abil-
 ity of video
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--63
+Underfull \hbox (badness 10000) in paragraph at lines 68--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--67
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 74.
+(Font)              <12> on input line 82.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 74.
+(Font)              <8> on input line 82.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 74.
+(Font)              <6> on input line 82.
 
-Overfull \hbox (17.6248pt too wide) in paragraph at lines 51--75
+Overfull \hbox (17.6248pt too wide) in paragraph at lines 59--83
 []$[]$ 
  []
 
-[1
 
-{C:/Users/Tuomas/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/soih
-tu.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 77--83
+Underfull \hbox (badness 10000) in paragraph at lines 85--91
 
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 77--83
+Underfull \hbox (badness 1342) in paragraph at lines 85--91
 \OT1/cmr/m/n/12 YLI-KOVERO, TUO-MAS: Heuris-ti-ikkoja videopeli-tu-to-ri-aalien
  kaytettavyyden
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--90
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
 
  []
 
 
-Overfull \hbox (17.6248pt too wide) in paragraph at lines 76--98
+Overfull \hbox (17.6248pt too wide) in paragraph at lines 84--106
 []$[]$ 
  []
 
-[2] [3] (yli-kovero_tuomas_pro_gradu.toc [1
+[3
+
+] [4] (yli-kovero_tuomas_pro_gradu.toc [1
 
 
 ])
@@ -691,7 +693,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 15.
  [6] [7]
-<img/drawing.pdf, id=46, 400.12042pt x 90.02382pt>
+<img/drawing.pdf, id=50, 400.12042pt x 90.02382pt>
 File: img/drawing.pdf Graphic file (type pdf)
  <use img/drawing.pdf>
 Package pdftex.def Info: img/drawing.pdf used on input line 55.
@@ -816,9 +818,9 @@ fonts/cm/cmr10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmr8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on yli-kovero_tuomas_pro_gradu.pdf (80 pages, 305984 bytes).
+Output written on yli-kovero_tuomas_pro_gradu.pdf (81 pages, 306552 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
+ 307 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
